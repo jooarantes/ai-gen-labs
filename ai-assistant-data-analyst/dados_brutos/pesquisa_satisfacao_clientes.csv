@@ -1,0 +1,433 @@
+id_resposta;data_resposta;cidade;idade;canal_atendimento;nota_satisfacao;nota_atendimento;nota_preco;recomendaria;tempo_cliente_meses;comentario
+21;09/05/2026;Brasília;26;loja fisica;3.0;3;2;nao;53;Muito satisfeito com a solução.
+387;20/04/2026;Porto Alegre;56;Chat;5.0;5;1;nao;45;Poderia melhorar o prazo de resposta.
+179;3-5-26;Belo Horizonte;52;chat ;3.0;3;2;Não;85;Preço alto comparado à concorrência.
+199;04/05/2026;Fortaleza;25;whatsapp;5.0;5;3;Sim;7;Preço alto comparado à concorrência.
+90;1-5-26;São Paulo;66;whatsapp;2.0;2;3;nao;24;Ótima experiência do início ao fim.
+118;18-5-26;Curitiba;59;whatsapp;5.0;5;3;Não;84;Tudo certo.
+260;25/04/2026;Recife;42;Loja física;4.0;4;4;Sim ;2;Produto bom, mas a entrega atrasou.
+160;10-4-26;Brasília;71;Telefone;4.0;5;4;NÃO;17;Ótima experiência do início ao fim.
+33;12/05/2026;Fortaleza;71;Chat;4.0;4;3;Sim ;68;Atendimento excelente, resolveram rápido.
+400;2026-05-14;Recife;48;Telefone;;4;5;sim;94;Atendente foi educado mas não resolveu meu problema.
+224;21-5-26;Belo Horizonte;18;Chat;5.0;5;1;sim;23;Ótima experiência do início ao fim.
+397;28-5-26;Porto Alegre;44;E-mail;4.0;3;3;sim;44;Tudo certo.
+379;2026-05-10;Rio de Janeiro;73;E-mail;4.0;5;4;Sim ;57;Atendente foi educado mas não resolveu meu problema.
+333;28/05/2026;Curitiba;51;WhatsApp;5.0;5;2;Sim;19;Preço alto comparado à concorrência.
+164;05/05/2026;Fortaleza;73;Loja física;5.0;5;5;Sim ;67;Demorou demais para me atenderem.
+285;2026-05-16;Rio de Janeiro;46;chat ;3.0;4;5;Sim;91;Demorou demais para me atenderem.
+85;2026-05-15;São Paulo;32;Chat;5.0;5;1;nao;10;
+120;15-5-26;Brasília;44;E-mail;3.0;3;2;Sim ;13;Poderia melhorar o prazo de resposta.
+308;23-4-26;Porto Alegre;28;telefone;3.0;3;2;Não;11;Atendente foi educado mas não resolveu meu problema.
+183;13-4-26;Belo Horizonte;61;chat ;4.0;4;3;Sim;74;Produto bom, mas a entrega atrasou.
+130;2026-05-20;Campinas;51;whatsapp;5.0;5;2;nao;13;Demorou demais para me atenderem.
+194;3-4-26;Campinas;27;loja fisica;5.0;5;3;NÃO;44;Ótima experiência do início ao fim.
+323;2026-04-20;Belo Horizonte;25;E-mail;3.0;4;3;sim;64;Atendente foi educado mas não resolveu meu problema.
+339;2026-04-02;Belo Horizonte;23;chat ;5.0;5;2;Sim;87;Preço alto comparado à concorrência.
+226;11/04/2026;Porto Alegre;42;whatsapp;3.0;2;5;Não;39;Ótima experiência do início ao fim.
+151;2026-04-19;Brasília;22;whatsapp;4.0;5;2;Sim;48;Preço alto comparado à concorrência.
+171;10/05/2026;Campinas;40;loja fisica;4.0;4;3;Sim ;86;Demorou demais para me atenderem.
+322;3-5-26;Recife;64;Telefone;5.0;5;5;nao;15;Poderia melhorar o prazo de resposta.
+237;05/04/2026;São Paulo;37;Loja física;2.0;3;3;Não;32;Poderia melhorar o prazo de resposta.
+6;28-5-26;Curitiba;63;Telefone;3.0;2;3;Não;11;Muito satisfeito com a solução.
+110;28/05/2026;Curitiba;42;chat ;5.0;5;4;Sim ;38;Atendimento excelente, resolveram rápido.
+406;21/04/2026;Rio de Janeiro;44;WhatsApp;5.0;4;3;Não;61;Produto bom, mas a entrega atrasou.
+166;2026-04-12;São Paulo;43;chat ;4.0;3;3;Sim;48;Muito satisfeito com a solução.
+193;17/05/2026;Porto Alegre;30;Chat;4.0;5;1;Não;79;Não recomendo o suporte por telefone.
+13;15-5-26;São Paulo;61;Loja física;4.0;2;1;Sim ;44;Demorou demais para me atenderem.
+287;2026-05-18;Curitiba;69;E-mail;3.0;4;3;Sim ;56;Tudo certo.
+189;2026-05-18;Brasília;999;telefone;5.0;5;1;nao;92;Poderia melhorar o prazo de resposta.
+350;25-4-26;Recife;40;E-mail;2.0;3;5;NÃO;90;Atendente foi educado mas não resolveu meu problema.
+228;13-5-26;Rio de Janeiro;58;chat ;3.0;3;4;sim;18;Poderia melhorar o prazo de resposta.
+295;2026-05-14;Fortaleza;49;telefone;3.0;4;4;sim;38;Atendimento excelente, resolveram rápido.
+3;23/05/2026;Fortaleza;55;Telefone;5.0;5;2;sim;90;Tudo certo.
+26;2026-04-13;Porto Alegre;68;Chat;5.0;5;3;Sim ;72;
+244;2026-04-14;Recife;29;whatsapp;3.0;3;2;sim;39;Produto bom, mas a entrega atrasou.
+68;26-4-26;São Paulo;40;WhatsApp;4.0;5;4;Sim;65;
+416;19-5-26;Fortaleza;999;WhatsApp;2.0;2;2;Sim ;94;Produto bom, mas a entrega atrasou.
+56;2026-05-08;Rio de Janeiro;63;email;4.0;5;5;Não;70;Demorou demais para me atenderem.
+399;2026-04-02;Porto Alegre;31;loja fisica;2.0;2;3;Não;17;Ótima experiência do início ao fim.
+25;21/04/2026;Curitiba;28;whatsapp;4.0;5;1;nao;8;Produto bom, mas a entrega atrasou.
+304;24-5-26;Salvador;47;chat ;5.0;5;3;Sim ;12;Poderia melhorar o prazo de resposta.
+343;26/04/2026;Salvador;25;whatsapp;;4;4;NÃO;56;Tudo certo.
+8;23-4-26;Belo Horizonte;52;E-mail;4.0;4;1;Não;82;Não recomendo o suporte por telefone.
+78;2026-04-04;Curitiba;41;Chat;;4;2;NÃO;17;Preço alto comparado à concorrência.
+276;24-5-26;Curitiba;38;Chat;5.0;5;2;nao;47;Demorou demais para me atenderem.
+414;2026-04-24;Salvador;29;WhatsApp;5.0;5;3;nao;35;Tudo certo.
+147;13-5-26;Salvador;32;E-mail;2.0;2;3;NÃO;66;Muito satisfeito com a solução.
+54;2026-05-18;Campinas;70;WhatsApp;5.0;4;4;NÃO;58;Produto bom, mas a entrega atrasou.
+284;10/05/2026;Rio de Janeiro;71;chat ;3.0;3;2;nao;27;Não recomendo o suporte por telefone.
+268;2026-05-05;Salvador;24;Telefone;3.0;3;2;nao;47;Preço alto comparado à concorrência.
+412;15/04/2026;Belo Horizonte;73;Chat;5.0;4;5;Sim ;41;Tudo certo.
+301;2026-04-09;Porto Alegre;36;Chat;4.0;4;3;NÃO;87;Demorou demais para me atenderem.
+132;2026-04-24;Recife;38;chat ;5.0;5;2;Sim ;61;Demorou demais para me atenderem.
+270;3-5-26;Rio de Janeiro;999;chat ;3.0;4;2;Sim;38;Tudo certo.
+67;13/04/2026;Campinas;62;telefone;4.0;3;3;Não;88;Ótima experiência do início ao fim.
+341;04/04/2026;São Paulo;21;E-mail;4.0;4;3;nao;48;
+29;3-4-26;Curitiba;43;loja fisica;3.0;3;4;NÃO;6;Ótima experiência do início ao fim.
+206;20-5-26;São Paulo;20;E-mail;4.0;4;4;nao;67;Poderia melhorar o prazo de resposta.
+346;2026-05-03;Belo Horizonte;44;Loja física;5.0;4;1;NÃO;3;Tudo certo.
+161;13/04/2026;Belo Horizonte;999;E-mail;4.0;3;1;Sim;53;Atendente foi educado mas não resolveu meu problema.
+70;6-5-26;Brasília;67;whatsapp;4.0;4;5;Sim ;76;Preço alto comparado à concorrência.
+262;16/05/2026;Rio de Janeiro;61;Loja física;4.0;4;4;Sim;23;Atendente foi educado mas não resolveu meu problema.
+182;1-4-26;Fortaleza;20;telefone;5.0;3;2;Sim ;47;Atendente foi educado mas não resolveu meu problema.
+265;2026-04-02;Curitiba;71;chat ;4.0;3;2;NÃO;77;Tudo certo.
+184;2026-05-17;Salvador;59;email;3.0;3;3;Sim;95;Produto bom, mas a entrega atrasou.
+313;2026-04-01;Salvador;64;E-mail;3.0;4;3;NÃO;88;Poderia melhorar o prazo de resposta.
+319;25/04/2026;Campinas;22;Chat;4.0;5;3;Sim;51;Não recomendo o suporte por telefone.
+233;2-5-26;Porto Alegre;64;WhatsApp;4.0;3;4;Sim;96;Muito satisfeito com a solução.
+115;2026-05-27;Salvador;69;whatsapp;4.0;4;2;sim;29;
+354;05/04/2026;Brasília;73;telefone;3.0;4;1;Sim ;51;Ótima experiência do início ao fim.
+213;2026-05-17;Belo Horizonte;47;chat ;5.0;5;1;Sim ;93;
+200;13/05/2026;Belo Horizonte;70;loja fisica;3.0;3;3;sim;21;Poderia melhorar o prazo de resposta.
+181;14-5-26;São Paulo;22;chat ;5.0;4;4;Sim ;87;Produto bom, mas a entrega atrasou.
+71;11/04/2026;Porto Alegre;74;email;4.0;5;4;NÃO;79;
+38;2-5-26;Brasília;27;E-mail;;4;5;Não;6;Atendente foi educado mas não resolveu meu problema.
+142;8-5-26;São Paulo;18;Chat;5.0;5;5;sim;33;Preço alto comparado à concorrência.
+391;13-5-26;Belo Horizonte;64;whatsapp;5.0;5;3;Não;54;Tudo certo.
+315;26/04/2026;Porto Alegre;59;email;5.0;5;5;NÃO;93;Ótima experiência do início ao fim.
+236;13-4-26;Brasília;26;telefone;4.0;3;5;NÃO;51;Não recomendo o suporte por telefone.
+118;18-5-26;Curitiba;59;whatsapp;5.0;5;3;Não;84;Tudo certo.
+31;2026-05-08;Belo Horizonte;60;whatsapp;4.0;5;2;Sim;2;Poderia melhorar o prazo de resposta.
+402;4-5-26;Campinas;37;telefone;4.0;4;3;Não;38;Poderia melhorar o prazo de resposta.
+69;2026-04-11;Fortaleza;24;chat ;2.0;1;4;Sim ;20;Tudo certo.
+254;18-4-26;São Paulo;71;Telefone;5.0;5;3;nao;18;
+280;13-5-26;São Paulo;68;Loja física;3.0;4;3;Sim;14;Muito satisfeito com a solução.
+371;18-5-26;Curitiba;48;telefone;4.0;4;4;Sim ;5;Não recomendo o suporte por telefone.
+41;9-4-26;Rio de Janeiro;42;whatsapp;5.0;4;5;nao;45;Preço alto comparado à concorrência.
+18;17/05/2026;Brasília;66;Chat;3.0;2;4;Sim ;84;Atendente foi educado mas não resolveu meu problema.
+375;19/05/2026;Recife;27;loja fisica;5.0;4;5;Sim;14;Ótima experiência do início ao fim.
+283;2026-05-12;Campinas;62;E-mail;4.0;5;2;Sim;62;Demorou demais para me atenderem.
+291;27-5-26;Campinas;23;chat ;4.0;3;1;Não;15;Produto bom, mas a entrega atrasou.
+241;10-4-26;Campinas;38;loja fisica;4.0;3;1;Não;31;Preço alto comparado à concorrência.
+413;24/04/2026;São Paulo;18;E-mail;5.0;5;4;nao;80;Preço alto comparado à concorrência.
+393;21-5-26;Salvador;50;E-mail;2.0;2;2;sim;38;Demorou demais para me atenderem.
+143;11/04/2026;Fortaleza;65;E-mail;3.0;4;4;NÃO;91;Muito satisfeito com a solução.
+101;11-5-26;Recife;42;whatsapp;3.0;3;4;sim;65;Ótima experiência do início ao fim.
+245;26/05/2026;Brasília;44;Loja física;4.0;3;4;nao;32;Preço alto comparado à concorrência.
+238;2026-04-12;Curitiba;74;Telefone;4.0;4;3;nao;79;Atendimento excelente, resolveram rápido.
+42;27/04/2026;São Paulo;60;WhatsApp;2.0;2;5;Não;45;
+177;2026-04-25;Salvador;73;chat ;4.0;3;4;Não;56;Tudo certo.
+30;3-5-26;Campinas;54;chat ;4.0;4;4;sim;86;Atendente foi educado mas não resolveu meu problema.
+395;08/05/2026;Porto Alegre;44;chat ;5.0;4;2;Não;60;Demorou demais para me atenderem.
+359;2026-05-03;São Paulo;34;email;5.0;5;1;Não;33;Demorou demais para me atenderem.
+415;2026-05-23;Belo Horizonte;25;Telefone;3.0;2;2;sim;14;Tudo certo.
+299;2026-04-12;Rio de Janeiro;67;email;5.0;5;3;NÃO;89;Atendente foi educado mas não resolveu meu problema.
+231;17-4-26;Brasília;27;chat ;3.0;4;2;nao;15;
+250;2026-05-04;Curitiba;41;WhatsApp;;3;1;sim;95;Produto bom, mas a entrega atrasou.
+286;1-5-26;Rio de Janeiro;61;email;3.0;2;4;NÃO;21;Atendente foi educado mas não resolveu meu problema.
+66;20/04/2026;Porto Alegre;24;Telefone;4.0;3;3;NÃO;87;Tudo certo.
+176;07/04/2026;São Paulo;38;Loja física;2.0;1;3;nao;33;Atendimento excelente, resolveram rápido.
+156;03/05/2026;Brasília;61;Chat;4.0;4;4;Sim ;78;Produto bom, mas a entrega atrasou.
+187;12-4-26;Brasília;36;E-mail;4.0;4;3;Sim ;82;Produto bom, mas a entrega atrasou.
+95;23/05/2026;São Paulo;999;email;5.0;4;5;Não;71;Atendimento excelente, resolveram rápido.
+173;2026-05-21;Porto Alegre;65;chat ;4.0;3;3;Não;31;
+11;18-5-26;Campinas;45;WhatsApp;3.0;4;3;sim;66;Poderia melhorar o prazo de resposta.
+377;20/05/2026;Belo Horizonte;35;E-mail;4.0;4;3;Sim ;89;Tudo certo.
+195;02/04/2026;São Paulo;59;Chat;4.0;5;3;NÃO;54;Ótima experiência do início ao fim.
+347;2026-05-26;Brasília;68;chat ;4.0;5;5;NÃO;42;Tudo certo.
+232;07/05/2026;Brasília;46;whatsapp;4.0;4;3;nao;59;Ótima experiência do início ao fim.
+4;11/05/2026;Curitiba;66;telefone;4.0;4;2;Sim;46;Atendente foi educado mas não resolveu meu problema.
+43;17-5-26;Brasília;39;telefone;3.0;3;3;Não;23;Ótima experiência do início ao fim.
+337;05/04/2026;Rio de Janeiro;28;whatsapp;5.0;5;5;Sim;69;Atendente foi educado mas não resolveu meu problema.
+218;5-4-26;Campinas;33;Telefone;5.0;5;2;NÃO;29;
+311;23/05/2026;Recife;62;whatsapp;3.0;5;1;nao;12;Demorou demais para me atenderem.
+330;2026-05-25;Rio de Janeiro;53;Telefone;5.0;5;3;Não;73;Preço alto comparado à concorrência.
+242;2026-04-05;Porto Alegre;35;Loja física;5.0;5;3;Sim ;23;
+229;5-5-26;Campinas;41;Loja física;2.0;3;3;Sim ;28;Muito satisfeito com a solução.
+175;15-5-26;Belo Horizonte;69;telefone;3.0;3;2;nao;5;Preço alto comparado à concorrência.
+14;10/05/2026;Fortaleza;18;Loja física;4.0;5;3;NÃO;14;
+210;24-4-26;Fortaleza;28;loja fisica;4.0;4;4;nao;19;
+158;18-5-26;Salvador;70;Loja física;1.0;1;5;NÃO;47;Atendimento excelente, resolveram rápido.
+310;2026-04-01;Rio de Janeiro;26;email;4.0;5;3;nao;2;Atendimento excelente, resolveram rápido.
+277;19-4-26;Brasília;29;Telefone;3.0;3;1;nao;91;Muito satisfeito com a solução.
+380;9-5-26;Rio de Janeiro;30;email;2.0;2;4;nao;67;Atendente foi educado mas não resolveu meu problema.
+162;2026-04-22;Campinas;36;email;4.0;3;1;Não;61;Muito satisfeito com a solução.
+216;2026-05-13;Belo Horizonte;36;Chat;4.0;2;3;Sim;45;Poderia melhorar o prazo de resposta.
+109;2026-05-03;Campinas;37;Chat;3.0;2;4;Não;26;Tudo certo.
+263;1-4-26;Belo Horizonte;66;telefone;5.0;5;3;NÃO;31;Ótima experiência do início ao fim.
+334;03/04/2026;Brasília;44;whatsapp;4.0;5;4;Sim;75;Demorou demais para me atenderem.
+36;09/04/2026;Recife;71;Telefone;;5;3;sim;82;Preço alto comparado à concorrência.
+205;22/04/2026;Rio de Janeiro;43;chat ;4.0;3;5;Não;19;Muito satisfeito com a solução.
+100;2026-05-18;Salvador;73;email;4.0;5;4;sim;53;Atendimento excelente, resolveram rápido.
+305;21/05/2026;Brasília;43;WhatsApp;4.0;5;3;nao;35;Atendente foi educado mas não resolveu meu problema.
+363;2026-04-18;Campinas;57;Telefone;5.0;5;3;Sim ;22;Ótima experiência do início ao fim.
+113;10/05/2026;Campinas;41;telefone;3.0;3;3;Não;96;Tudo certo.
+174;21-4-26;Salvador;26;chat ;5.0;4;4;Sim ;23;
+129;2026-04-22;Fortaleza;22;chat ;3.0;3;3;Sim;17;Preço alto comparado à concorrência.
+190;2026-05-17;Campinas;22;chat ;3.0;2;3;nao;60;
+392;13-4-26;Campinas;70;chat ;4.0;3;3;sim;88;Não recomendo o suporte por telefone.
+302;05/05/2026;Porto Alegre;73;E-mail;5.0;5;3;Sim ;42;Muito satisfeito com a solução.
+148;2026-05-25;Belo Horizonte;33;E-mail;4.0;2;3;sim;78;Produto bom, mas a entrega atrasou.
+279;22-4-26;Recife;68;telefone;4.0;4;5;NÃO;62;Ótima experiência do início ao fim.
+292;12-4-26;Recife;999;E-mail;3.0;3;5;nao;24;Poderia melhorar o prazo de resposta.
+99;10-5-26;Campinas;60;E-mail;4.0;3;4;nao;45;Atendente foi educado mas não resolveu meu problema.
+119;04/04/2026;São Paulo;37;telefone;4.0;3;3;NÃO;18;Tudo certo.
+365;2026-05-09;Curitiba;24;WhatsApp;5.0;5;4;nao;20;Atendimento excelente, resolveram rápido.
+420;2026-05-28;Belo Horizonte;22;chat ;4.0;3;3;Não;7;Não recomendo o suporte por telefone.
+204;2026-04-02;Brasília;36;WhatsApp;5.0;5;3;NÃO;36;Ótima experiência do início ao fim.
+378;2026-05-02;Curitiba;21;Chat;4.0;5;4;Sim;44;Preço alto comparado à concorrência.
+61;26-5-26;Belo Horizonte;71;E-mail;4.0;3;2;NÃO;4;Tudo certo.
+409;7-5-26;Curitiba;40;Chat;4.0;4;3;NÃO;64;Muito satisfeito com a solução.
+335;17-4-26;Recife;22;loja fisica;4.0;3;4;Sim ;17;Muito satisfeito com a solução.
+152;3-4-26;Campinas;50;whatsapp;4.0;4;2;Sim ;6;Poderia melhorar o prazo de resposta.
+170;15/04/2026;Fortaleza;56;Telefone;3.0;3;2;NÃO;31;Produto bom, mas a entrega atrasou.
+12;03/04/2026;Belo Horizonte;58;WhatsApp;3.0;4;2;nao;49;Ótima experiência do início ao fim.
+418;17-4-26;Salvador;51;loja fisica;5.0;3;3;Sim ;94;Muito satisfeito com a solução.
+201;2026-05-17;Porto Alegre;49;telefone;5.0;4;4;NÃO;59;Muito satisfeito com a solução.
+223;21/05/2026;Brasília;47;email;4.0;5;1;Não;21;Poderia melhorar o prazo de resposta.
+266;25/05/2026;Porto Alegre;68;whatsapp;5.0;5;4;NÃO;49;Tudo certo.
+127;2026-04-04;Fortaleza;67;Loja física;5.0;4;2;nao;65;Muito satisfeito com a solução.
+128;20-4-26;Brasília;37;Telefone;3.0;1;2;nao;52;Tudo certo.
+257;24-5-26;Porto Alegre;19;WhatsApp;3.0;4;4;sim;14;Demorou demais para me atenderem.
+58;15/05/2026;Curitiba;71;WhatsApp;3.0;3;3;NÃO;90;Atendimento excelente, resolveram rápido.
+131;2026-04-28;Fortaleza;74;WhatsApp;3.0;3;1;nao;52;Tudo certo.
+227;2026-04-24;Salvador;62;Telefone;5.0;5;4;nao;40;Produto bom, mas a entrega atrasou.
+329;17/04/2026;Curitiba;69;Telefone;4.0;3;5;Sim;60;Preço alto comparado à concorrência.
+75;2026-04-13;Campinas;41;Loja física;5.0;4;2;nao;96;Não recomendo o suporte por telefone.
+215;2026-05-23;Fortaleza;40;Chat;4.0;3;3;NÃO;87;Não recomendo o suporte por telefone.
+107;6-4-26;Recife;57;whatsapp;4.0;4;3;sim;30;Poderia melhorar o prazo de resposta.
+92;2026-05-14;Recife;70;Telefone;4.0;3;4;Não;33;Atendente foi educado mas não resolveu meu problema.
+316;10-4-26;Porto Alegre;31;loja fisica;3.0;2;2;Sim ;51;Preço alto comparado à concorrência.
+351;19-4-26;Salvador;54;E-mail;3.0;3;4;sim;64;Não recomendo o suporte por telefone.
+5;20/05/2026;Fortaleza;52;WhatsApp;4.0;2;1;Não;81;Ótima experiência do início ao fim.
+24;2026-04-14;Fortaleza;33;whatsapp;3.0;3;5;NÃO;13;Atendimento excelente, resolveram rápido.
+306;2026-05-27;Brasília;54;loja fisica;4.0;4;3;Não;88;Atendimento excelente, resolveram rápido.
+271;13-4-26;Brasília;75;loja fisica;4.0;4;5;Sim ;49;Produto bom, mas a entrega atrasou.
+180;10-5-26;Recife;28;chat ;3.0;4;2;Sim ;46;Ótima experiência do início ao fim.
+2;03/05/2026;São Paulo;23;email;5.0;5;3;Sim;72;Muito satisfeito com a solução.
+217;21-5-26;Fortaleza;31;Loja física;4.0;5;5;NÃO;90;Preço alto comparado à concorrência.
+191;17/05/2026;Brasília;58;E-mail;4.0;5;3;sim;56;Não recomendo o suporte por telefone.
+40;28/04/2026;Recife;19;chat ;3.0;4;4;nao;86;Muito satisfeito com a solução.
+112;26/05/2026;Curitiba;57;E-mail;3.0;4;3;Sim ;83;Atendimento excelente, resolveram rápido.
+278;15-5-26;Rio de Janeiro;70;whatsapp;3.0;2;2;Não;31;Preço alto comparado à concorrência.
+180;10-5-26;Recife;28;chat ;3.0;4;2;Sim ;46;Ótima experiência do início ao fim.
+55;2026-05-24;Porto Alegre;66;Chat;5.0;4;4;NÃO;63;
+5;20/05/2026;Fortaleza;52;WhatsApp;4.0;2;1;Não;81;Ótima experiência do início ao fim.
+105;14-4-26;Rio de Janeiro;46;Chat;5.0;5;5;Sim;42;Atendimento excelente, resolveram rápido.
+281;22/05/2026;Campinas;20;WhatsApp;4.0;5;2;Não;56;Demorou demais para me atenderem.
+165;10/04/2026;Porto Alegre;46;E-mail;4.0;3;5;Sim;29;Poderia melhorar o prazo de resposta.
+106;2026-05-10;Recife;27;Loja física;4.0;5;3;Sim ;24;Produto bom, mas a entrega atrasou.
+86;8-5-26;Campinas;60;WhatsApp;3.0;4;2;sim;83;Produto bom, mas a entrega atrasou.
+269;04/04/2026;Belo Horizonte;45;Loja física;3.0;3;3;nao;14;Atendimento excelente, resolveram rápido.
+376;2026-04-25;Brasília;74;WhatsApp;3.0;3;2;Sim ;63;Ótima experiência do início ao fim.
+172;17/05/2026;Brasília;52;Loja física;3.0;3;4;nao;61;Atendimento excelente, resolveram rápido.
+252;2026-04-19;Brasília;59;Chat;5.0;4;5;nao;93;
+153;2026-04-26;Campinas;48;E-mail;4.0;3;2;nao;14;Atendente foi educado mas não resolveu meu problema.
+167;01/05/2026;Salvador;68;E-mail;;2;4;nao;90;Produto bom, mas a entrega atrasou.
+7;2026-04-28;Porto Alegre;47;E-mail;3.0;2;5;sim;86;Preço alto comparado à concorrência.
+336;2026-05-10;Recife;62;chat ;4.0;5;4;sim;10;Muito satisfeito com a solução.
+91;14/05/2026;Fortaleza;40;chat ;5.0;4;4;Sim;21;Atendente foi educado mas não resolveu meu problema.
+353;1-5-26;Curitiba;69;chat ;4.0;5;4;Não;8;Atendimento excelente, resolveram rápido.
+157;11-4-26;Belo Horizonte;40;WhatsApp;3.0;3;3;Sim ;11;Preço alto comparado à concorrência.
+259;2026-05-12;Campinas;33;Chat;4.0;3;2;Sim;84;
+222;06/05/2026;São Paulo;37;loja fisica;3.0;2;3;Não;37;Poderia melhorar o prazo de resposta.
+83;15-5-26;Recife;37;loja fisica;3.0;2;5;Sim ;13;Muito satisfeito com a solução.
+369;2026-05-15;Curitiba;71;loja fisica;5.0;4;4;Sim ;86;Demorou demais para me atenderem.
+72;13/05/2026;Fortaleza;72;E-mail;5.0;5;4;Não;34;Atendente foi educado mas não resolveu meu problema.
+410;2026-05-23;Curitiba;18;telefone;4.0;5;5;NÃO;86;Poderia melhorar o prazo de resposta.
+404;8-4-26;Belo Horizonte;31;loja fisica;5.0;4;2;Sim;47;
+88;4-5-26;Porto Alegre;62;Chat;4.0;1;2;nao;57;Demorou demais para me atenderem.
+358;2026-04-21;Belo Horizonte;39;email;4.0;4;1;Não;22;
+65;2026-04-08;Rio de Janeiro;54;whatsapp;4.0;3;3;Não;22;Ótima experiência do início ao fim.
+15;10/04/2026;Salvador;66;Loja física;4.0;4;1;NÃO;1;Ótima experiência do início ao fim.
+408;14-4-26;Campinas;25;telefone;4.0;5;3;nao;26;Ótima experiência do início ao fim.
+332;01/05/2026;Curitiba;52;Telefone;3.0;2;3;Sim;85;Tudo certo.
+19;15/05/2026;Curitiba;32;chat ;;5;2;NÃO;30;Ótima experiência do início ao fim.
+379;2026-05-10;Rio de Janeiro;73;E-mail;4.0;5;4;Sim ;57;Atendente foi educado mas não resolveu meu problema.
+331;2026-04-24;Salvador;55;email;4.0;2;3;NÃO;32;Produto bom, mas a entrega atrasou.
+267;06/05/2026;Campinas;36;telefone;4.0;4;4;sim;49;
+349;17-5-26;Curitiba;28;email;4.0;5;4;Não;69;Atendimento excelente, resolveram rápido.
+154;23-4-26;Belo Horizonte;20;whatsapp;2.0;4;3;NÃO;21;Atendente foi educado mas não resolveu meu problema.
+321;03/04/2026;Brasília;38;loja fisica;5.0;5;3;Sim ;88;
+104;11-5-26;São Paulo;57;email;4.0;4;4;Não;30;Demorou demais para me atenderem.
+370;3-5-26;Recife;66;email;3.0;3;5;nao;67;Tudo certo.
+155;2026-05-12;Recife;67;loja fisica;;3;3;Sim ;83;Atendente foi educado mas não resolveu meu problema.
+318;2026-05-01;Belo Horizonte;42;WhatsApp;4.0;3;5;Sim ;23;Poderia melhorar o prazo de resposta.
+121;2026-05-20;São Paulo;62;email;4.0;5;3;sim;47;Demorou demais para me atenderem.
+390;2026-05-09;Porto Alegre;59;email;4.0;4;4;sim;8;Ótima experiência do início ao fim.
+282;2026-04-01;Curitiba;50;Loja física;4.0;4;4;NÃO;29;Poderia melhorar o prazo de resposta.
+145;19-5-26;Recife;36;WhatsApp;;5;5;Não;22;Ótima experiência do início ao fim.
+6;28-5-26;Curitiba;63;Telefone;3.0;2;3;Não;11;Muito satisfeito com a solução.
+45;2026-04-19;São Paulo;63;Telefone;3.0;3;2;NÃO;88;
+114;06/04/2026;Brasília;74;Loja física;3.0;2;3;Não;22;Preço alto comparado à concorrência.
+135;04/04/2026;Fortaleza;32;chat ;4.0;4;2;Não;15;Preço alto comparado à concorrência.
+221;21-4-26;São Paulo;29;E-mail;3.0;3;3;Sim;51;Poderia melhorar o prazo de resposta.
+141;2026-04-07;Recife;25;loja fisica;5.0;5;3;Sim ;40;Atendimento excelente, resolveram rápido.
+94;20-5-26;Fortaleza;66;email;3.0;3;4;sim;37;Poderia melhorar o prazo de resposta.
+102;2026-04-11;Rio de Janeiro;51;Telefone;4.0;4;3;nao;84;Produto bom, mas a entrega atrasou.
+211;8-4-26;Rio de Janeiro;30;whatsapp;2.0;3;3;NÃO;27;Tudo certo.
+134;2026-04-22;Salvador;73;Telefone;5.0;4;2;NÃO;40;Atendente foi educado mas não resolveu meu problema.
+80;2026-05-16;Salvador;29;Chat;4.0;3;4;nao;15;Demorou demais para me atenderem.
+411;5-4-26;Rio de Janeiro;64;Chat;3.0;2;3;nao;38;Preço alto comparado à concorrência.
+116;24-5-26;Salvador;23;Telefone;4.0;3;1;Sim;59;Atendente foi educado mas não resolveu meu problema.
+290;11-5-26;Recife;55;chat ;4.0;5;5;nao;80;Produto bom, mas a entrega atrasou.
+396;16-4-26;Campinas;999;telefone;5.0;4;3;sim;65;Demorou demais para me atenderem.
+207;2026-04-05;Campinas;38;WhatsApp;4.0;4;2;Sim ;39;Ótima experiência do início ao fim.
+185;16-5-26;Rio de Janeiro;34;whatsapp;5.0;5;3;NÃO;37;Poderia melhorar o prazo de resposta.
+328;2026-04-14;Curitiba;44;Chat;4.0;3;3;NÃO;48;Demorou demais para me atenderem.
+275;2026-04-14;Salvador;56;whatsapp;5.0;5;2;nao;41;Preço alto comparado à concorrência.
+243;22-5-26;Fortaleza;21;WhatsApp;4.0;4;2;Não;90;Tudo certo.
+338;2026-04-25;Porto Alegre;47;telefone;4.0;5;2;Sim ;39;Ótima experiência do início ao fim.
+10;23/05/2026;Fortaleza;43;E-mail;4.0;4;3;sim;96;Não recomendo o suporte por telefone.
+46;2026-05-07;Rio de Janeiro;60;loja fisica;5.0;4;3;Sim;93;Preço alto comparado à concorrência.
+298;2026-04-18;Rio de Janeiro;65;Chat;4.0;5;4;Sim;58;Preço alto comparado à concorrência.
+355;2026-05-04;Salvador;26;WhatsApp;5.0;4;3;nao;84;Atendente foi educado mas não resolveu meu problema.
+335;17-4-26;Recife;22;loja fisica;4.0;3;4;Sim ;17;Muito satisfeito com a solução.
+37;6-5-26;Recife;53;telefone;4.0;4;1;Sim ;20;Não recomendo o suporte por telefone.
+49;2026-05-14;Fortaleza;46;Loja física;4.0;5;2;Sim ;22;
+146;15/05/2026;Recife;72;email;4.0;5;1;nao;68;Demorou demais para me atenderem.
+123;22-4-26;Campinas;19;chat ;4.0;4;3;sim;73;Muito satisfeito com a solução.
+307;2-4-26;Fortaleza;19;E-mail;3.0;3;4;Sim;55;Muito satisfeito com a solução.
+345;5-4-26;Campinas;57;Chat;4.0;5;2;NÃO;62;Atendimento excelente, resolveram rápido.
+314;28/04/2026;Rio de Janeiro;26;loja fisica;3.0;2;4;Não;55;Atendente foi educado mas não resolveu meu problema.
+198;5-5-26;Salvador;64;WhatsApp;3.0;3;3;Não;66;Não recomendo o suporte por telefone.
+258;17/04/2026;Curitiba;57;Chat;3.0;4;4;Não;51;Demorou demais para me atenderem.
+140;25-4-26;Rio de Janeiro;35;WhatsApp;4.0;5;3;nao;54;Preço alto comparado à concorrência.
+398;19/05/2026;Salvador;73;telefone;2.0;2;3;sim;41;
+356;06/05/2026;Campinas;70;WhatsApp;3.0;2;4;Sim ;38;Produto bom, mas a entrega atrasou.
+108;2026-05-21;Porto Alegre;60;whatsapp;4.0;3;5;Sim ;70;Produto bom, mas a entrega atrasou.
+9;08/05/2026;Curitiba;70;chat ;3.0;3;2;Sim;28;Ótima experiência do início ao fim.
+348;09/04/2026;Salvador;56;Telefone;3.0;4;3;Não;8;Poderia melhorar o prazo de resposta.
+407;2026-04-07;Recife;60;Loja física;3.0;5;2;NÃO;90;Produto bom, mas a entrega atrasou.
+394;16-4-26;Porto Alegre;64;E-mail;3.0;3;5;Não;84;Demorou demais para me atenderem.
+192;28/04/2026;Brasília;27;E-mail;4.0;5;1;Sim ;29;Atendente foi educado mas não resolveu meu problema.
+235;10/05/2026;Belo Horizonte;67;chat ;3.0;2;1;nao;58;Tudo certo.
+22;4-4-26;Recife;40;WhatsApp;2.0;3;5;Sim ;84;
+403;2026-05-24;Belo Horizonte;39;chat ;3.0;2;1;sim;52;Atendimento excelente, resolveram rápido.
+273;2026-04-16;Porto Alegre;33;loja fisica;4.0;5;3;nao;14;Produto bom, mas a entrega atrasou.
+372;19/04/2026;Fortaleza;29;email;4.0;4;3;sim;6;Tudo certo.
+18;17/05/2026;Brasília;66;Chat;3.0;2;4;Sim ;84;Atendente foi educado mas não resolveu meu problema.
+340;09/04/2026;Recife;72;Loja física;3.0;3;4;sim;13;Poderia melhorar o prazo de resposta.
+79;2-4-26;Porto Alegre;62;whatsapp;5.0;5;1;Sim;74;Preço alto comparado à concorrência.
+47;17-5-26;Recife;38;Chat;5.0;4;3;sim;54;
+373;03/05/2026;Belo Horizonte;999;Chat;5.0;5;3;Sim ;9;Demorou demais para me atenderem.
+383;2026-05-09;Brasília;43;Telefone;3.0;2;5;nao;77;Poderia melhorar o prazo de resposta.
+342;21-4-26;Campinas;34;Telefone;5.0;5;4;sim;83;Poderia melhorar o prazo de resposta.
+389;22-5-26;Campinas;56;Chat;5.0;5;5;nao;9;Atendente foi educado mas não resolveu meu problema.
+220;6-5-26;Fortaleza;48;Chat;4.0;4;3;Sim ;8;Demorou demais para me atenderem.
+384;6-5-26;Brasília;40;E-mail;3.0;2;1;Não;96;Demorou demais para me atenderem.
+250;2026-05-04;Curitiba;41;WhatsApp;;3;1;sim;95;Produto bom, mas a entrega atrasou.
+136;2026-04-19;Brasília;999;loja fisica;4.0;3;3;NÃO;4;Ótima experiência do início ao fim.
+202;07/05/2026;São Paulo;36;loja fisica;5.0;5;5;Sim ;87;Poderia melhorar o prazo de resposta.
+388;2026-04-09;Porto Alegre;61;loja fisica;5.0;4;1;Sim;1;Não recomendo o suporte por telefone.
+111;2026-05-27;São Paulo;54;loja fisica;4.0;3;3;Não;30;Ótima experiência do início ao fim.
+166;2026-04-12;São Paulo;43;chat ;4.0;3;3;Sim;48;Muito satisfeito com a solução.
+64;02/05/2026;Rio de Janeiro;67;Telefone;2.0;2;4;Não;80;Produto bom, mas a entrega atrasou.
+293;21-4-26;Belo Horizonte;49;E-mail;3.0;3;3;nao;80;Atendimento excelente, resolveram rápido.
+93;4-5-26;São Paulo;60;whatsapp;4.0;4;3;sim;67;Atendente foi educado mas não resolveu meu problema.
+246;7-5-26;Rio de Janeiro;46;telefone;4.0;4;4;sim;7;Preço alto comparado à concorrência.
+63;2026-05-15;Recife;35;Chat;4.0;4;2;nao;3;Não recomendo o suporte por telefone.
+1;21/04/2026;Porto Alegre;33;E-mail;4.0;4;4;Sim ;95;Não recomendo o suporte por telefone.
+28;2-4-26;Fortaleza;50;E-mail;;5;2;NÃO;11;Produto bom, mas a entrega atrasou.
+401;1-5-26;Curitiba;19;email;4.0;4;3;Não;40;Produto bom, mas a entrega atrasou.
+251;1-5-26;Campinas;55;Chat;3.0;2;2;Não;30;Tudo certo.
+178;2026-05-24;Salvador;29;whatsapp;2.0;2;2;Não;11;Tudo certo.
+188;26-5-26;Curitiba;25;E-mail;5.0;5;3;nao;4;Atendente foi educado mas não resolveu meu problema.
+149;25/04/2026;Fortaleza;47;loja fisica;2.0;3;3;NÃO;83;
+240;2026-04-24;Fortaleza;32;email;4.0;4;3;Sim;18;Não recomendo o suporte por telefone.
+385;2026-04-10;São Paulo;28;email;3.0;2;5;Sim ;29;
+382;06/04/2026;São Paulo;33;whatsapp;;4;3;Não;91;Muito satisfeito com a solução.
+366;2026-04-12;Rio de Janeiro;999;whatsapp;4.0;4;1;Sim;27;Produto bom, mas a entrega atrasou.
+159;12/05/2026;Curitiba;39;email;5.0;5;4;sim;20;Demorou demais para me atenderem.
+144;17/05/2026;Recife;73;WhatsApp;;1;1;Não;74;Tudo certo.
+274;2026-04-10;Salvador;999;WhatsApp;5.0;5;5;Não;57;Atendente foi educado mas não resolveu meu problema.
+60;2026-04-26;Curitiba;35;whatsapp;;5;5;Não;86;
+203;10/04/2026;Recife;26;chat ;3.0;2;1;Não;6;Tudo certo.
+357;6-4-26;Campinas;43;Telefone;3.0;3;3;Não;79;Muito satisfeito com a solução.
+209;19-5-26;São Paulo;56;Chat;5.0;5;2;NÃO;74;Muito satisfeito com a solução.
+368;9-4-26;Brasília;42;chat ;1.0;3;3;nao;6;Preço alto comparado à concorrência.
+150;20-5-26;Salvador;27;telefone;3.0;3;2;Sim ;39;Preço alto comparado à concorrência.
+124;3-4-26;Curitiba;70;chat ;3.0;3;4;NÃO;1;Preço alto comparado à concorrência.
+312;2026-05-04;Porto Alegre;26;E-mail;1.0;1;2;Sim;68;Ótima experiência do início ao fim.
+17;24/05/2026;Brasília;67;E-mail;4.0;3;3;NÃO;22;Preço alto comparado à concorrência.
+225;2026-05-28;Brasília;38;WhatsApp;3.0;3;1;sim;18;Poderia melhorar o prazo de resposta.
+386;7-5-26;Recife;50;Telefone;5.0;4;5;sim;83;Produto bom, mas a entrega atrasou.
+230;22-4-26;Fortaleza;51;telefone;3.0;4;4;Sim;8;Não recomendo o suporte por telefone.
+309;22/04/2026;Recife;58;email;5.0;4;2;Sim;91;Demorou demais para me atenderem.
+362;2026-05-01;Rio de Janeiro;22;E-mail;5.0;5;4;sim;94;Demorou demais para me atenderem.
+344;2026-04-16;Recife;29;email;3.0;3;1;Não;36;Poderia melhorar o prazo de resposta.
+98;17/04/2026;Porto Alegre;67;chat ;3.0;3;4;NÃO;35;Atendimento excelente, resolveram rápido.
+126;12-4-26;Salvador;19;Chat;;4;3;Sim ;54;Não recomendo o suporte por telefone.
+62;19/04/2026;Recife;26;E-mail;;4;4;nao;42;Muito satisfeito com a solução.
+82;8-4-26;Recife;999;loja fisica;5.0;4;3;NÃO;49;Poderia melhorar o prazo de resposta.
+247;13/04/2026;Curitiba;69;Loja física;5.0;5;1;sim;43;Preço alto comparado à concorrência.
+325;3-5-26;Campinas;58;whatsapp;5.0;4;2;Não;8;Poderia melhorar o prazo de resposta.
+57;05/04/2026;Recife;62;email;4.0;3;2;nao;43;Não recomendo o suporte por telefone.
+20;08/04/2026;São Paulo;32;Telefone;3.0;3;4;Sim;66;Muito satisfeito com a solução.
+87;09/04/2026;São Paulo;28;loja fisica;4.0;5;2;NÃO;37;Poderia melhorar o prazo de resposta.
+327;02/04/2026;São Paulo;48;WhatsApp;2.0;3;4;Não;71;
+247;13/04/2026;Curitiba;69;Loja física;5.0;5;1;sim;43;Preço alto comparado à concorrência.
+138;22/05/2026;Belo Horizonte;65;telefone;3.0;2;5;sim;49;Tudo certo.
+317;21/04/2026;Fortaleza;42;email;4.0;4;3;NÃO;10;Não recomendo o suporte por telefone.
+35;2026-05-05;Campinas;31;email;3.0;2;3;Não;65;Poderia melhorar o prazo de resposta.
+297;2026-04-04;Brasília;70;Loja física;4.0;5;4;Sim;93;Poderia melhorar o prazo de resposta.
+139;15/05/2026;Salvador;37;loja fisica;4.0;3;5;Sim;20;Produto bom, mas a entrega atrasou.
+255;8-4-26;Belo Horizonte;18;Loja física;5.0;5;4;Sim;80;
+77;04/04/2026;Curitiba;65;Chat;3.0;4;2;NÃO;77;Preço alto comparado à concorrência.
+27;23/05/2026;Curitiba;36;Telefone;4.0;2;3;NÃO;8;Atendente foi educado mas não resolveu meu problema.
+289;2026-04-04;Salvador;30;telefone;3.0;3;3;nao;68;
+44;09/04/2026;Campinas;45;chat ;3.0;2;3;NÃO;15;Tudo certo.
+97;2026-05-17;Fortaleza;48;whatsapp;4.0;4;3;nao;25;Ótima experiência do início ao fim.
+84;2026-04-21;Rio de Janeiro;28;E-mail;4.0;3;4;sim;1;Tudo certo.
+253;2026-05-24;Belo Horizonte;64;E-mail;4.0;4;2;NÃO;63;Produto bom, mas a entrega atrasou.
+367;21/05/2026;Fortaleza;72;Chat;5.0;5;4;nao;63;
+362;2026-05-01;Rio de Janeiro;22;E-mail;5.0;5;4;sim;94;Demorou demais para me atenderem.
+186;07/04/2026;Rio de Janeiro;46;whatsapp;3.0;3;2;Sim ;41;
+74;25-4-26;Fortaleza;59;whatsapp;4.0;5;1;Sim;38;Muito satisfeito com a solução.
+374;13-5-26;Salvador;72;Loja física;5.0;5;4;Sim;90;Ótima experiência do início ao fim.
+249;2026-05-11;Fortaleza;52;Chat;4.0;3;3;NÃO;64;Poderia melhorar o prazo de resposta.
+248;01/04/2026;Rio de Janeiro;65;email;2.0;2;3;nao;31;Não recomendo o suporte por telefone.
+234;19/04/2026;Recife;40;Loja física;4.0;4;4;Sim;61;Atendimento excelente, resolveram rápido.
+272;2026-05-05;Porto Alegre;49;telefone;4.0;5;1;Não;54;Preço alto comparado à concorrência.
+137;22/05/2026;Belo Horizonte;35;chat ;4.0;4;4;sim;19;Ótima experiência do início ao fim.
+296;9-4-26;Porto Alegre;28;loja fisica;5.0;5;3;nao;71;Não recomendo o suporte por telefone.
+50;3-5-26;Campinas;39;email;2.0;2;3;Não;19;Atendimento excelente, resolveram rápido.
+208;11-5-26;Campinas;37;Telefone;4.0;5;5;Sim ;15;Tudo certo.
+419;16-5-26;Recife;27;loja fisica;;4;5;Sim ;21;Não recomendo o suporte por telefone.
+417;16/05/2026;Recife;46;telefone;4.0;3;3;Não;2;
+133;03/04/2026;Recife;24;E-mail;2.0;3;3;NÃO;72;Atendente foi educado mas não resolveu meu problema.
+51;2026-04-02;Campinas;72;whatsapp;4.0;4;2;Sim ;74;Muito satisfeito com a solução.
+239;08/04/2026;Rio de Janeiro;56;whatsapp;4.0;5;3;Sim ;7;Muito satisfeito com a solução.
+53;06/05/2026;Brasília;33;whatsapp;5.0;5;2;nao;86;Não recomendo o suporte por telefone.
+81;13/05/2026;Campinas;58;E-mail;3.0;3;4;NÃO;39;Demorou demais para me atenderem.
+32;20/04/2026;Brasília;31;Chat;3.0;3;1;Não;9;Muito satisfeito com a solução.
+122;22-5-26;Salvador;21;Chat;4.0;5;3;Sim;59;Demorou demais para me atenderem.
+212;17-5-26;São Paulo;63;Loja física;3.0;2;1;Não;85;Poderia melhorar o prazo de resposta.
+352;2026-04-10;São Paulo;23;email;4.0;4;2;Sim;68;Poderia melhorar o prazo de resposta.
+303;2026-05-25;Belo Horizonte;54;WhatsApp;2.0;3;4;Não;52;Não recomendo o suporte por telefone.
+197;15-4-26;São Paulo;28;WhatsApp;5.0;4;3;sim;44;Ótima experiência do início ao fim.
+89;2026-04-20;Salvador;56;Telefone;4.0;3;5;Sim ;74;Ótima experiência do início ao fim.
+326;2026-04-28;Belo Horizonte;34;loja fisica;2.0;2;1;NÃO;66;Atendimento excelente, resolveram rápido.
+324;17/05/2026;Salvador;26;telefone;2.0;2;2;nao;35;Não recomendo o suporte por telefone.
+256;22-5-26;Fortaleza;19;Loja física;3.0;3;5;Sim;3;Não recomendo o suporte por telefone.
+381;27-4-26;Belo Horizonte;22;Loja física;3.0;4;3;NÃO;73;Atendimento excelente, resolveram rápido.
+59;2026-05-28;São Paulo;40;WhatsApp;4.0;5;3;nao;69;Não recomendo o suporte por telefone.
+34;22-5-26;Rio de Janeiro;74;Chat;4.0;3;2;Sim;96;Não recomendo o suporte por telefone.
+39;7-4-26;Rio de Janeiro;40;WhatsApp;4.0;4;3;Sim ;20;Muito satisfeito com a solução.
+360;24/04/2026;Recife;46;E-mail;3.0;4;4;nao;49;Atendente foi educado mas não resolveu meu problema.
+52;2026-05-23;Recife;33;Telefone;4.0;4;2;Sim;55;Muito satisfeito com a solução.
+364;14/04/2026;Rio de Janeiro;39;email;4.0;4;3;NÃO;93;Não recomendo o suporte por telefone.
+261;2026-05-03;Salvador;54;Loja física;4.0;3;3;sim;28;Ótima experiência do início ao fim.
+103;2026-05-03;Salvador;57;telefone;5.0;5;4;Sim ;69;Tudo certo.
+196;2026-04-21;Brasília;36;whatsapp;4.0;4;2;Sim ;52;Preço alto comparado à concorrência.
+168;2026-05-25;Campinas;18;Telefone;5.0;4;4;sim;71;Ótima experiência do início ao fim.
+294;28/05/2026;Fortaleza;26;WhatsApp;5.0;5;2;NÃO;84;Poderia melhorar o prazo de resposta.
+117;22-5-26;Recife;70;telefone;3.0;3;3;nao;4;Ótima experiência do início ao fim.
+125;28/04/2026;Brasília;34;telefone;5.0;5;5;Sim;17;Atendimento excelente, resolveram rápido.
+405;2026-04-26;Porto Alegre;67;loja fisica;;4;3;Sim;85;Demorou demais para me atenderem.
+219;08/04/2026;Recife;39;telefone;5.0;5;3;sim;1;Não recomendo o suporte por telefone.
+288;2026-04-01;Campinas;45;Telefone;2.0;3;5;NÃO;9;Ótima experiência do início ao fim.
+320;2026-05-10;Recife;23;Loja física;4.0;4;4;Não;11;Preço alto comparado à concorrência.
+48;13-4-26;Campinas;37;Loja física;5.0;4;3;Não;37;Muito satisfeito com a solução.
+214;21-5-26;Fortaleza;30;Chat;2.0;2;5;nao;37;Muito satisfeito com a solução.
+214;21-5-26;Fortaleza;30;Chat;2.0;2;5;nao;37;Muito satisfeito com a solução.
+96;18/05/2026;Curitiba;71;whatsapp;2.0;2;4;sim;64;Preço alto comparado à concorrência.
+163;2026-05-12;Porto Alegre;67;Loja física;3.0;2;5;sim;26;Ótima experiência do início ao fim.
+264;27-5-26;Brasília;39;E-mail;2.0;2;3;Sim;65;Atendente foi educado mas não resolveu meu problema.
+361;18/05/2026;Fortaleza;68;email;3.0;3;3;Sim;5;Preço alto comparado à concorrência.
+76;11-5-26;Fortaleza;35;Chat;5.0;5;2;Sim ;25;Atendente foi educado mas não resolveu meu problema.
+300;28/05/2026;Campinas;26;email;4.0;5;2;NÃO;45;Não recomendo o suporte por telefone.
+23;2026-04-04;Salvador;69;email;4.0;5;3;NÃO;58;Produto bom, mas a entrega atrasou.
+73;9-5-26;São Paulo;51;telefone;3.0;3;2;nao;63;Não recomendo o suporte por telefone.
+16;11/05/2026;Rio de Janeiro;41;email;;3;4;NÃO;11;Demorou demais para me atenderem.
+169;17/05/2026;Porto Alegre;33;telefone;;3;2;nao;82;Ótima experiência do início ao fim.

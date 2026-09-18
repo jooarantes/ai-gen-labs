@@ -1,0 +1,57 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+
+# Python build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.venv/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter and interactive development state
+.ipynb_checkpoints/
+
+# Logs, temporary files, and local reports
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Local Obsidian state
+# Keep shareable vault configuration and plugins versioned when useful.
+**/.obsidian/workspace*.json
+**/.obsidian/cache/
+**/.obsidian/.trash/

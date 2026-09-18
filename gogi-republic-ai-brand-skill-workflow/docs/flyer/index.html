@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101010">
+  <title>Gogi Republic | Koreatown friends-and-family preview night</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --black: #101010;
+      --red: #F24B2E;
+      --coal: #6D1F16;
+      --cream: #F7EFE2;
+      --steel: #A6A09A;
+      --display: Impact, "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+      --body: Arial, Helvetica, sans-serif;
+      --label: "Courier New", monospace;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 32px 20px; background: #242220; color: var(--cream); font-family: var(--body); }
+    .flyer { width: 100%; max-width: 960px; margin: auto; background: var(--black); border: 1px solid #49423c; }
+    .masthead { min-height: 88px; margin: 0 36px; display: flex; align-items: center; justify-content: space-between; gap: 20px; border-bottom: 1px solid #514b44; }
+    /* Display only the supplied wordmark; its baked-in tagline stays outside the crop. */
+    .logo { width: 160px; height: 44px; position: relative; overflow: hidden; flex: none; }
+    .logo img { position: absolute; width: 210px; height: 210px; max-width: none; left: -25px; top: -79px; }
+    .label { font-family: var(--label); font-size: 12px; font-weight: 700; line-height: 1.4; letter-spacing: .09em; text-transform: uppercase; }
+    .location { text-align: right; margin: 0; }
+    .location span { color: var(--steel); display: block; }
+    .intro { padding: 30px 36px 28px; display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 24px; }
+    .eyebrow { color: var(--red); margin: 0 0 12px; }
+    h1 { margin: 0; font: 400 clamp(68px, 10vw, 108px)/.91 var(--display); letter-spacing: -.025em; text-transform: uppercase; }
+    h1 span { display: block; color: var(--red); }
+    .date-stamp { width: 162px; height: 162px; border: 2px solid var(--red); border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; transform: rotate(7deg); }
+    .date-stamp p { margin: 0; }
+    .date-stamp strong { font: 400 54px/1.1 var(--display); color: var(--red); }
+    .hero { margin: 0; position: relative; }
+    .hero img { display: block; width: 100%; height: 300px; object-fit: cover; object-position: center 64%; }
+    .hero figcaption { position: absolute; bottom: 0; left: 0; padding: 12px 36px; margin: 0; color: var(--black); background: var(--red); }
+    .invitation { margin: 0; padding: 21px 36px; font-size: 17px; line-height: 1.5; border-bottom: 1px solid #514b44; }
+    .offer { display: grid; grid-template-columns: 170px 1fr; background: var(--cream); color: var(--black); }
+    .offer-photo { width: 100%; height: 100%; min-height: 158px; object-fit: cover; }
+    .offer-copy { padding: 24px 30px; display: flex; flex-direction: column; justify-content: center; }
+    .offer-copy .label { margin: 0 0 8px; color: var(--coal); }
+    h2 { margin: 0; font: 400 36px/1.04 var(--display); text-transform: uppercase; }
+    h2 span { color: var(--coal); }
+    .closing { padding: 24px 36px 22px; }
+    .rsvp { display: flex; justify-content: space-between; align-items: center; gap: 18px; }
+    .rsvp p { margin: 0; font-size: 15px; }
+    .rsvp a { display: inline-flex; align-items: center; gap: 16px; min-height: 48px; padding: 12px 16px; color: var(--black); background: var(--red); font-size: 15px; font-weight: 700; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    .rsvp a:hover { background: var(--cream); }
+    .rsvp a:focus-visible { outline: 3px solid var(--cream); outline-offset: 4px; }
+    .rsvp a span { font-size: 22px; line-height: 1; }
+    .footer-line { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-top: 23px; padding-top: 18px; border-top: 1px solid #514b44; }
+    .signature { margin: 0; font-size: 19px; font-weight: 700; }
+    .signoff { margin: 0; color: var(--steel); font-size: 13px; }
+    @media (max-width: 600px) {
+      body { padding: 0; }
+      .flyer { border: 0; }
+      .masthead { margin: 0 22px; min-height: 80px; gap: 10px; }
+      .location { font-size: 10px; }
+      .intro { padding: 26px 22px; gap: 12px; }
+      .eyebrow { font-size: 10px; max-width: 220px; }
+      h1 { font-size: clamp(63px, 15vw, 90px); }
+      .date-stamp { width: 104px; height: 104px; }
+      .date-stamp .label { font-size: 10px; letter-spacing: .03em; }
+      .date-stamp strong { font-size: 36px; }
+      .hero img { height: 265px; object-position: 58% center; }
+      .hero figcaption { padding: 11px 22px; font-size: 10px; }
+      .invitation { padding: 20px 22px; font-size: 16px; }
+      .offer { grid-template-columns: 110px 1fr; }
+      .offer-copy { padding: 22px 18px; }
+      .offer-copy .label { font-size: 10px; }
+      h2 { font-size: 29px; }
+      .closing { padding: 24px 22px; }
+      .rsvp { align-items: stretch; flex-direction: column; gap: 12px; }
+      .rsvp a { justify-content: space-between; font-size: 14px; }
+      .footer-line { align-items: flex-start; flex-direction: column; gap: 8px; }
+      .signature { font-size: 18px; }
+    }
+    @page { size: letter portrait; margin: 10mm; }
+    @media print {
+      html, body { background: var(--black); padding: 0; }
+      body { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      .flyer { width: 100%; max-width: none; border: 0; break-inside: avoid; }
+      .masthead { min-height: 66px; margin: 0 28px; }
+      .intro { padding: 22px 28px; }
+      h1 { font-size: 82px; }
+      .date-stamp { width: 132px; height: 132px; }
+      .date-stamp strong { font-size: 44px; }
+      .hero img { height: 238px; }
+      .hero figcaption { padding-left: 28px; }
+      .invitation { padding: 16px 28px; font-size: 15px; }
+      .offer { grid-template-columns: 145px 1fr; }
+      .offer-photo { min-height: 128px; }
+      .offer-copy { padding: 18px 24px; }
+      h2 { font-size: 32px; }
+      .closing { padding: 18px 28px; }
+      .rsvp a { font-size: 13px; min-height: 42px; padding: 10px 12px; }
+      .footer-line { margin-top: 18px; padding-top: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="flyer" aria-labelledby="flyer-title">
+    <header class="masthead">
+      <div class="logo"><img src="../../assets/logo_concept.png" width="1600" height="1600" alt="Gogi Republic"></div>
+      <p class="location label">Koreatown<span>Los Angeles · Korean BBQ</span></p>
+    </header>
+    <section class="intro" aria-label="Preview night invitation">
+      <div>
+        <p class="eyebrow label">Friends-and-family preview night</p>
+        <h1 id="flyer-title">First <span>smoke.</span></h1>
+      </div>
+      <div class="date-stamp" aria-label="Thursday, 7 PM to late">
+        <p class="label">Thursday</p>
+        <p><strong>7 PM</strong></p>
+        <p class="label">to late</p>
+      </div>
+    </section>
+    <figure class="hero">
+      <img src="../../assets/hero_grill_table.png" width="1672" height="941" alt="Tongs turning meat on a smoking tabletop grill, surrounded by banchan." fetchpriority="high">
+      <figcaption class="label">New Koreatown location. Same hungry crew.</figcaption>
+    </figure>
+    <p class="invitation">Bring your people. Pass the tongs.<br>The grill is hot, and there's room for round two.</p>
+    <section class="offer" aria-labelledby="offer-title">
+      <img class="offer-photo" src="../../assets/texture_banchan.png" width="1254" height="1254" alt="Bowls of kimchi, pickled daikon, cucumber, and other banchan.">
+      <div class="offer-copy">
+        <p class="label">A little something for the table</p>
+        <h2 id="offer-title">First round of banchan<br><span>on us.</span></h2>
+      </div>
+    </section>
+    <footer class="closing">
+      <div class="rsvp">
+        <p>Coming hungry? <strong>RSVP.</strong></p>
+        <a href="mailto:ktown@gogirepublic.com?subject=Koreatown%20preview%20night%20RSVP">ktown@gogirepublic.com <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="footer-line">
+        <p class="signature">Grill loud, eat louder.</p>
+        <p class="signoff">MJ and the crew.</p>
+      </div>
+    </footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,784 @@
+id_avaliacao,data_avaliacao,id_cliente,nota_nps,canal,dispositivo,categoria_compra,valor_pedido,uf,primeiro_pedido
+202604-00001,2026-04-13,C36774,10,app,Android,Mercado,"R$ 128,15",PE,nao
+202604-00002,2026-04-15,C20356,9,app,Android,Livros,"R$ 63,79",CE,sim
+202604-00003,2026-04-02,C28256,9,app,Desktop,Mercado,"R$ 45,17",PE,nao
+202604-00004,2026-04-07,C31449,7,marketplace,Desktop,Casa e Decoração,"R$ 64,54",DF,sim
+202604-00005,2026-04-11,C28355,6,site,Android,Livros,"R$ 288,66",CE,nao
+202604-00006,2026-04-04,C34881,10,site,iOS,Casa e Decoração,"R$ 186,12",RJ,nao
+202604-00007,2026-04-23,C13483,5,site,iOS,Moda,"R$ 97,37",BA,nao
+202604-00008,2026-04-07,C16145,10,app,Desktop,Moda,"R$ 134,18",SP,nao
+202604-00009,2026-04-23,C21073,10,site,Android,Livros,"R$ 160,02",PR,sim
+202604-00010,2026-04-15,C31576,8,site,Android,Beleza,"R$ 97,87",CE,sim
+202604-00011,2026-04-18,C24182,8,site,Android,Esporte,"R$ 109,21",SP,sim
+202604-00012,2026-04-24,C36713,9,site,Android,Esporte,"R$ 237,39",MG,nao
+202604-00013,2026-04-14,C29955,6,site,Android,Casa e Decoração,"R$ 47,85",PE,nao
+202604-00014,2026-04-15,C36371,3,marketplace,Android,Livros,"R$ 173,40",RS,nao
+202604-00015,2026-04-28,C20286,5,site,Desktop,Livros,"R$ 26,92",DF,sim
+202604-00016,2026-04-23,C19521,9,app,Desktop,Moda,"R$ 695,83",SP,sim
+202604-00017,2026-04-23,C13781,8,site,Android,Esporte,"R$ 218,53",BA,nao
+202604-00018,2026-04-10,C38753,8,site,Desktop,Esporte,"R$ 113,38",DF,sim
+202604-00019,2026-04-02,C31962,10,app,iOS,Mercado,"R$ 99,17",MG,sim
+202604-00020,2026-04-05,C37504,7,marketplace,Android,Moda,"R$ 152,20",RS,sim
+202604-00021,2026-04-04,C30188,7,app,Android,Mercado,"R$ 243,33",CE,sim
+202604-00022,2026-04-13,C17785,7,site,Android,Livros,"R$ 71,59",DF,nao
+202604-00023,2026-04-13,C22699,9,site,Android,Livros,"R$ 64,78",SP,nao
+202604-00024,2026-04-01,C34368,7,marketplace,Android,Mercado,"R$ 120,74",SP,nao
+202604-00025,2026-04-25,C29280,10,site,Android,Mercado,"R$ 169,40",BA,sim
+202604-00026,2026-04-22,C12440,8,app,iOS,Esporte,"R$ 215,39",MG,sim
+202604-00027,2026-04-09,C28238,10,app,iOS,Mercado,"R$ 179,55",PE,nao
+202604-00028,2026-04-23,C15072,8,app,Desktop,Esporte,"R$ 48,51",CE,sim
+202604-00029,2026-04-27,C31688,5,site,Android,Esporte,"R$ 98,13",SP,nao
+202604-00030,2026-04-17,C17207,7,app,Android,Mercado,"R$ 106,60",BA,sim
+202604-00031,2026-04-13,C13012,9,app,Desktop,Livros,"R$ 176,05",DF,nao
+202604-00032,2026-04-07,C34663,8,app,Android,Esporte,"R$ 170,81",RS,sim
+202604-00033,2026-04-15,C17875,9,app,Android,Esporte,"R$ 30,48",BA,sim
+202604-00034,2026-04-13,C36090,5,marketplace,Android,Esporte,"R$ 109,85",BA,nao
+202604-00035,2026-04-27,C35247,6,app,Desktop,Beleza,"R$ 184,92",DF,nao
+202604-00036,2026-04-11,C26839,10,app,iOS,Mercado,"R$ 285,18",PR,sim
+202604-00037,2026-04-22,C30627,7,site,Desktop,Beleza,"R$ 344,99",PR,sim
+202604-00038,2026-04-21,C36763,9,app,Android,Moda,"R$ 95,97",PE,sim
+202604-00039,2026-04-02,C12867,7,app,iOS,Casa e Decoração,"R$ 98,32",BA,sim
+202604-00040,2026-04-09,C23357,7,site,Android,Beleza,"R$ 136,91",PR,nao
+202604-00041,2026-04-18,C10193,9,app,Android,Mercado,"R$ 121,77",RJ,sim
+202604-00042,2026-04-12,C26476,8,site,Android,Casa e Decoração,"R$ 279,63",RJ,sim
+202604-00043,2026-04-13,C22947,10,app,iOS,Moda,"R$ 42,97",CE,sim
+202604-00044,2026-04-26,C36131,3,app,iOS,Livros,"R$ 233,70",PE,sim
+202604-00045,2026-04-01,C28137,6,app,iOS,Eletrônicos,"R$ 103,82",BA,sim
+202604-00046,2026-04-18,C27941,5,site,iOS,Livros,"R$ 34,42",PE,nao
+202604-00047,2026-04-05,C15274,9,app,Android,Casa e Decoração,"R$ 206,73",DF,sim
+202604-00048,2026-04-28,C11782,7,app,Desktop,Esporte,"R$ 19,81",SP,nao
+202604-00049,2026-04-10,C32009,7,site,iOS,Livros,"R$ 159,85",RJ,nao
+202604-00050,2026-04-05,C31997,4,marketplace,iOS,Esporte,"R$ 138,15",BA,sim
+202604-00051,2026-04-16,C24766,7,marketplace,Android,Livros,"R$ 182,27",BA,sim
+202604-00052,2026-04-26,C20365,8,site,iOS,Casa e Decoração,"R$ 61,49",BA,sim
+202604-00053,2026-04-09,C37528,10,site,Android,Casa e Decoração,"R$ 108,75",PE,nao
+202604-00054,2026-04-25,C20009,8,app,iOS,Livros,"R$ 63,23",BA,sim
+202604-00055,2026-04-18,C16436,7,site,Desktop,Eletrônicos,"R$ 65,41",MG,sim
+202604-00056,2026-04-21,C11022,6,marketplace,Android,Mercado,"R$ 402,70",DF,sim
+202604-00057,2026-04-09,C27808,4,marketplace,Android,Livros,"R$ 39,27",DF,sim
+202604-00058,2026-04-25,C29320,10,app,iOS,Beleza,"R$ 104,95",PR,sim
+202604-00059,2026-04-01,C31714,7,app,Desktop,Esporte,"R$ 251,62",DF,sim
+202604-00060,2026-04-15,C15217,6,site,Desktop,Livros,"R$ 436,25",MG,sim
+202604-00061,2026-04-12,C11324,9,site,Android,Eletrônicos,"R$ 86,35",CE,nao
+202604-00062,2026-04-22,C16775,10,app,Android,Beleza,"R$ 79,52",SP,nao
+202604-00063,2026-04-02,C31250,8,marketplace,Android,Esporte,"R$ 149,83",SP,nao
+202604-00064,2026-04-19,C27837,10,site,Android,Beleza,"R$ 362,51",RS,nao
+202604-00065,2026-04-17,C18243,8,site,Desktop,Esporte,"R$ 71,71",RJ,nao
+202604-00066,2026-04-16,C35973,9,app,Android,Esporte,"R$ 75,61",BA,sim
+202604-00067,2026-04-03,C26860,10,app,iOS,Moda,"R$ 133,70",PR,sim
+202604-00068,2026-04-22,C17547,8,app,iOS,Eletrônicos,"R$ 138,28",RJ,nao
+202604-00069,2026-04-07,C29359,5,site,Desktop,Eletrônicos,"R$ 61,55",CE,sim
+202604-00070,2026-04-19,C15279,10,app,Android,Esporte,"R$ 76,72",SP,sim
+202604-00071,2026-04-06,C26929,6,app,Android,Esporte,"R$ 176,91",RS,sim
+202604-00072,2026-04-03,C17097,9,marketplace,Desktop,Mercado,"R$ 200,99",RS,nao
+202604-00073,2026-04-20,C14676,10,app,Desktop,Moda,"R$ 71,54",PE,nao
+202604-00074,2026-04-15,C29547,6,app,iOS,Beleza,"R$ 347,56",BA,sim
+202604-00075,2026-04-17,C38167,8,app,Android,Mercado,"R$ 101,94",PR,sim
+202604-00076,2026-04-16,C39543,10,site,iOS,Mercado,"R$ 179,35",MG,sim
+202604-00077,2026-04-20,C27671,9,app,Desktop,Mercado,"R$ 553,08",MG,nao
+202604-00078,2026-04-28,C11423,6,site,Android,Mercado,"R$ 232,64",BA,nao
+202604-00079,2026-04-12,C29301,8,site,Desktop,Mercado,"R$ 146,64",PE,sim
+202604-00080,2026-04-16,C35095,10,app,Desktop,Casa e Decoração,"R$ 173,38",RS,nao
+202604-00081,2026-04-23,C34367,9,app,Android,Eletrônicos,"R$ 257,43",SP,sim
+202604-00082,2026-04-23,C36354,8,app,Android,Moda,"R$ 67,53",PR,nao
+202604-00083,2026-04-09,C38015,6,site,Android,Esporte,"R$ 30,68",RS,nao
+202604-00084,2026-04-25,C16674,10,marketplace,Android,Beleza,"R$ 56,13",PE,sim
+202604-00085,2026-04-16,C18315,8,app,Android,Mercado,"R$ 100,11",DF,nao
+202604-00086,2026-04-24,C17529,8,site,Android,Moda,"R$ 215,08",RJ,sim
+202604-00087,2026-04-26,C21089,10,app,Android,Livros,"R$ 80,79",PE,sim
+202604-00088,2026-04-26,C12984,8,app,Android,Esporte,"R$ 148,09",SP,nao
+202604-00089,2026-04-08,C22151,8,app,iOS,Beleza,"R$ 374,33",RS,nao
+202604-00090,2026-04-10,C33317,9,site,iOS,Mercado,"R$ 203,25",DF,sim
+202604-00091,2026-04-01,C16609,9,site,Desktop,Esporte,"R$ 276,28",CE,nao
+202604-00092,2026-04-17,C26902,9,app,Android,Livros,"R$ 49,02",SP,sim
+202604-00093,2026-04-06,C12845,9,app,Android,Casa e Decoração,"R$ 77,02",SP,nao
+202604-00094,2026-04-17,C10503,7,app,iOS,Eletrônicos,"R$ 183,18",PR,nao
+202604-00095,2026-04-19,C21406,10,site,Desktop,Moda,"R$ 123,33",DF,sim
+202604-00096,2026-04-19,C10152,9,app,Android,Eletrônicos,"R$ 400,03",PE,sim
+202604-00097,2026-04-04,C36310,8,site,iOS,Esporte,"R$ 750,83",BA,nao
+202604-00098,2026-04-19,C25847,9,site,Android,Mercado,"R$ 35,43",PE,nao
+202604-00099,2026-04-28,C10896,9,site,iOS,Beleza,"R$ 158,67",SP,sim
+202604-00100,2026-04-26,C20345,10,site,Android,Esporte,"R$ 194,65",PR,sim
+202604-00101,2026-04-08,C19413,7,site,Android,Mercado,"R$ 51,57",RS,nao
+202604-00102,2026-04-16,C20284,8,app,Desktop,Casa e Decoração,"R$ 67,00",MG,sim
+202604-00103,2026-04-16,C34153,6,marketplace,Android,Mercado,"R$ 183,46",PR,nao
+202604-00104,2026-04-27,C18182,10,app,Android,Mercado,"R$ 160,18",PR,sim
+202604-00105,2026-04-22,C31739,6,app,iOS,Mercado,"R$ 165,87",RJ,sim
+202604-00106,2026-04-20,C20335,10,site,Desktop,Esporte,"R$ 79,29",BA,nao
+202604-00107,2026-04-09,C23037,8,app,Android,Eletrônicos,"R$ 122,77",DF,nao
+202604-00108,2026-04-02,C26465,7,app,Desktop,Mercado,"R$ 191,29",DF,sim
+202604-00109,2026-04-23,C26980,8,app,Android,Eletrônicos,"R$ 162,99",RJ,sim
+202604-00110,2026-04-11,C21848,7,app,iOS,Esporte,"R$ 89,46",RJ,nao
+202604-00111,2026-04-20,C21242,10,app,Android,Moda,"R$ 93,60",CE,nao
+202604-00112,2026-04-12,C37994,10,site,Android,Esporte,"R$ 91,86",BA,sim
+202604-00113,2026-04-27,C13272,7,marketplace,Desktop,Esporte,"R$ 233,41",PR,nao
+202604-00114,2026-04-05,C36215,4,marketplace,iOS,Mercado,"R$ 35,43",PR,sim
+202604-00115,2026-04-05,C39270,5,app,Android,Livros,"R$ 294,07",CE,nao
+202604-00116,2026-04-09,C28420,6,site,iOS,Eletrônicos,"R$ 728,32",RS,sim
+202604-00117,2026-04-16,C37491,7,app,Android,Casa e Decoração,"R$ 138,27",RS,nao
+202604-00118,2026-04-18,C36542,10,app,iOS,Eletrônicos,"R$ 494,86",DF,nao
+202604-00119,2026-04-07,C28902,10,marketplace,Android,Moda,"R$ 283,12",SP,nao
+202604-00120,2026-04-16,C35386,10,app,Desktop,Beleza,"R$ 183,97",DF,nao
+202604-00121,2026-04-28,C15491,10,app,Desktop,Beleza,"R$ 82,61",MG,nao
+202604-00122,2026-04-03,C15308,6,site,iOS,Livros,"R$ 121,22",RJ,nao
+202604-00123,2026-04-21,C22958,7,site,Android,Mercado,"R$ 88,48",SP,nao
+202604-00124,2026-04-15,C23565,9,site,Desktop,Moda,"R$ 237,15",DF,sim
+202604-00125,2026-04-07,C15469,8,site,iOS,Beleza,"R$ 341,82",RJ,sim
+202604-00126,2026-04-17,C35067,6,app,iOS,Esporte,"R$ 106,11",PE,sim
+202604-00127,2026-04-10,C17515,7,app,iOS,Livros,"R$ 32,90",PE,sim
+202604-00128,2026-04-01,C11151,8,app,Desktop,Casa e Decoração,"R$ 111,58",MG,nao
+202604-00129,2026-04-09,C27974,10,app,Desktop,Livros,"R$ 188,97",DF,sim
+202604-00130,2026-04-21,C34540,6,site,Android,Esporte,"R$ 444,91",CE,nao
+202604-00131,2026-04-18,C17442,9,marketplace,Android,Casa e Decoração,"R$ 182,63",CE,nao
+202604-00132,2026-04-01,C10003,8,app,Android,Moda,"R$ 62,08",RS,nao
+202604-00133,2026-04-01,C32536,8,app,Desktop,Beleza,"R$ 260,38",DF,nao
+202604-00134,2026-04-26,C19598,10,app,Android,Esporte,"R$ 357,91",PE,nao
+202604-00135,2026-04-14,C22935,7,app,Android,Livros,"R$ 55,49",DF,nao
+202604-00136,2026-04-09,C12595,8,site,iOS,Mercado,"R$ 35,24",PR,nao
+202604-00137,2026-04-26,C18808,9,app,Desktop,Moda,"R$ 109,58",DF,sim
+202604-00138,2026-04-20,C24836,7,app,Android,Moda,"R$ 39,79",CE,nao
+202604-00139,2026-04-18,C10725,9,app,iOS,Casa e Decoração,"R$ 83,69",SP,sim
+202604-00140,2026-04-08,C12955,5,site,Android,Casa e Decoração,"R$ 16,27",SP,nao
+202604-00141,2026-04-12,C25194,8,app,iOS,Eletrônicos,"R$ 420,14",CE,sim
+202604-00142,2026-04-03,C27799,10,app,iOS,Mercado,"R$ 88,24",PE,nao
+202604-00143,2026-04-04,C35170,6,site,Android,Beleza,"R$ 168,70",SP,sim
+202604-00144,2026-04-07,C25100,6,site,iOS,Livros,"R$ 150,09",SP,sim
+202604-00145,2026-04-11,C15197,10,app,iOS,Esporte,"R$ 286,82",RS,sim
+202604-00146,2026-04-07,C21810,8,app,Desktop,Moda,"R$ 105,36",RS,sim
+202604-00147,2026-04-11,C10493,7,app,iOS,Eletrônicos,"R$ 68,11",PE,nao
+202604-00148,2026-04-02,C29040,7,site,Android,Esporte,"R$ 157,14",SP,sim
+202604-00149,2026-04-08,C15167,10,app,Android,Casa e Decoração,"R$ 69,25",RJ,sim
+202604-00150,2026-04-23,C27575,10,app,iOS,Moda,"R$ 100,51",MG,nao
+202604-00151,2026-04-26,C39222,7,marketplace,iOS,Livros,"R$ 72,02",BA,nao
+202604-00152,2026-04-09,C39447,4,app,Android,Esporte,"R$ 225,62",MG,nao
+202604-00153,2026-04-07,C28569,9,site,iOS,Livros,"R$ 99,79",CE,nao
+202604-00154,2026-04-28,C28170,9,app,Android,Beleza,"R$ 174,37",SP,nao
+202604-00155,2026-04-12,C24879,4,site,,Livros,"R$ 83,90",DF,nao
+202604-00156,2026-04-20,C38076,9,site,Android,Casa e Decoração,"R$ 50,50",SP,sim
+202604-00157,2026-04-27,C22697,8,site,Android,Mercado,"R$ 47,01",DF,sim
+202604-00158,2026-04-14,C31001,9,site,iOS,Livros,"R$ 118,52",BA,sim
+202604-00159,2026-04-06,C38622,5,app,iOS,Moda,"R$ 274,60",MG,sim
+202604-00160,2026-04-22,C26053,7,app,Android,Casa e Decoração,"R$ 68,91",PE,sim
+202604-00161,2026-04-23,C12322,9,app,,Moda,"R$ 271,52",SP,nao
+202604-00162,2026-04-15,C36247,5,marketplace,Android,Livros,"R$ 126,87",RJ,nao
+202604-00163,2026-04-27,C30215,8,site,iOS,Eletrônicos,"R$ 197,39",SP,nao
+202604-00164,2026-04-17,C13182,9,app,iOS,Beleza,"R$ 93,98",PR,sim
+202604-00165,2026-04-19,C30490,7,app,Android,Esporte,"R$ 129,06",PR,nao
+202604-00166,2026-04-12,C32101,5,site,Android,Eletrônicos,"R$ 15,72",SP,sim
+202604-00167,2026-04-13,C26537,8,site,iOS,Esporte,"R$ 228,78",DF,nao
+202604-00168,2026-04-18,C20638,2,marketplace,Android,Livros,"R$ 59,93",BA,nao
+202604-00169,2026-04-20,C17887,9,site,iOS,Mercado,"R$ 512,99",BA,nao
+202604-00170,2026-04-15,C23011,8,app,,Eletrônicos,"R$ 73,00",CE,nao
+202604-00171,2026-04-05,C39174,7,site,iOS,Moda,"R$ 318,12",DF,sim
+202604-00172,2026-04-25,C36933,6,marketplace,Desktop,Esporte,"R$ 69,45",SP,sim
+202604-00173,2026-04-12,C15115,7,app,Android,Esporte,"R$ 62,34",CE,sim
+202604-00174,2026-04-03,C28693,9,app,Desktop,Livros,"R$ 378,90",RS,sim
+202604-00175,2026-04-06,C25999,8,site,Android,Esporte,"R$ 101,83",CE,sim
+202604-00176,2026-04-02,C33946,7,site,Android,Mercado,"R$ 40,68",RS,sim
+202604-00177,2026-04-12,C38829,9,marketplace,Android,Mercado,"R$ 115,07",BA,sim
+202604-00178,2026-04-24,C31390,6,marketplace,Desktop,Livros,"R$ 1.135,89",PR,nao
+202604-00179,2026-04-02,C20463,9,app,iOS,Esporte,"R$ 71,79",DF,sim
+202604-00180,2026-04-15,C34669,8,app,Android,Moda,"R$ 271,49",PE,nao
+202604-00181,2026-04-05,C14331,9,app,Android,Livros,"R$ 44,40",PE,sim
+202604-00182,2026-04-03,C23058,9,site,Android,Moda,"R$ 76,12",RS,sim
+202604-00183,2026-04-16,C22953,10,app,iOS,Esporte,"R$ 258,79",PR,sim
+202604-00184,2026-04-25,C24092,8,app,Desktop,Eletrônicos,"R$ 297,89",RS,sim
+202604-00185,2026-04-12,C21413,8,site,iOS,Livros,"R$ 220,73",PE,sim
+202604-00186,2026-04-12,C30192,9,site,Desktop,Esporte,"R$ 67,19",MG,sim
+202604-00187,2026-04-07,C32457,7,app,Android,Mercado,"R$ 249,88",PR,sim
+202604-00188,2026-04-08,C30349,8,app,Desktop,Mercado,"R$ 91,60",SP,nao
+202604-00189,2026-04-10,C24747,6,app,iOS,Livros,"R$ 163,45",RJ,sim
+202604-00190,2026-04-25,C18475,10,app,Android,Moda,"R$ 57,55",DF,sim
+202604-00191,2026-04-02,C18370,8,app,iOS,Mercado,"R$ 326,54",DF,nao
+202604-00192,2026-04-03,C22735,8,app,Android,Livros,"R$ 166,78",SP,nao
+202604-00193,2026-04-10,C38423,5,marketplace,Android,Beleza,"R$ 163,99",SP,sim
+202604-00194,2026-04-28,C29565,6,marketplace,iOS,Esporte,"R$ 242,26",CE,nao
+202604-00195,2026-04-02,C18106,10,site,iOS,Beleza,"R$ 744,49",SP,nao
+202604-00196,2026-04-12,C32423,9,site,Android,Moda,"R$ 152,64",SP,nao
+202604-00197,2026-04-13,C39176,8,site,Desktop,Esporte,"R$ 94,90",RS,nao
+202604-00198,2026-04-13,C31526,9,app,Android,Esporte,"R$ 98,81",BA,sim
+202604-00199,2026-04-05,C23974,9,app,Desktop,Casa e Decoração,"R$ 305,61",SP,nao
+202604-00200,2026-04-21,C14540,6,site,Android,Moda,"R$ 269,86",PR,sim
+202604-00201,2026-04-05,C24092,10,app,Desktop,Moda,"R$ 111,87",DF,sim
+202604-00202,2026-04-18,C33574,4,app,iOS,Moda,"R$ 79,40",DF,sim
+202604-00203,2026-04-14,C19940,10,site,Desktop,Livros,"R$ 119,58",PE,nao
+202604-00204,2026-04-04,C14310,6,app,Android,Esporte,"R$ 85,34",PR,nao
+202604-00205,2026-04-08,C29541,9,site,Android,Casa e Decoração,"R$ 178,17",SP,sim
+202604-00206,2026-04-05,C26460,7,site,Android,Livros,"R$ 93,99",CE,nao
+202604-00207,2026-04-16,C25527,8,app,iOS,Eletrônicos,"R$ 63,71",PE,nao
+202604-00208,2026-04-09,C23534,10,site,Android,Moda,"R$ 96,97",SP,sim
+202604-00209,2026-04-28,C30219,10,app,iOS,Beleza,"R$ 352,45",CE,sim
+202604-00210,2026-04-20,C34095,10,app,Android,Beleza,"R$ 89,83",SP,sim
+202604-00211,2026-04-15,C37099,8,site,Desktop,Moda,"R$ 119,47",CE,nao
+202604-00212,2026-04-18,C22694,5,marketplace,Android,Eletrônicos,"R$ 152,48",SP,sim
+202604-00213,2026-04-10,C35351,6,app,Android,Beleza,"R$ 279,05",PE,nao
+202604-00214,2026-04-23,C26940,7,site,Android,Livros,"R$ 139,88",SP,nao
+202604-00215,2026-04-04,C15890,9,app,Desktop,Livros,"R$ 101,37",DF,sim
+202604-00216,2026-04-15,C10816,10,app,Android,Livros,"R$ 87,14",BA,sim
+202604-00217,2026-04-09,C20619,9,marketplace,Desktop,Mercado,"R$ 47,36",RJ,sim
+202604-00218,2026-04-03,C13740,8,site,Android,Eletrônicos,"R$ 472,13",RJ,nao
+202604-00219,2026-04-20,C15239,6,site,Android,Mercado,"R$ 75,61",DF,sim
+202604-00220,2026-04-28,C31611,8,marketplace,iOS,Moda,"R$ 137,79",SP,sim
+202604-00221,2026-04-14,C20094,8,site,Android,Beleza,"R$ 171,13",SP,nao
+202604-00222,2026-04-05,C16647,9,site,,Mercado,"R$ 264,22",RJ,nao
+202604-00223,2026-04-28,C26339,9,app,iOS,Beleza,"R$ 102,63",CE,sim
+202604-00224,2026-04-15,C23439,10,app,Android,Eletrônicos,"R$ 459,40",CE,sim
+202604-00225,2026-04-20,C30599,7,marketplace,Desktop,Eletrônicos,"R$ 61,43",RS,sim
+202604-00226,2026-04-02,C14763,10,app,Android,Mercado,"R$ 111,69",BA,nao
+202604-00227,2026-04-02,C13568,4,app,iOS,Livros,"R$ 219,90",RJ,nao
+202604-00228,2026-04-19,C35798,7,site,Desktop,Livros,"R$ 114,05",SP,nao
+202604-00229,2026-04-25,C19807,7,marketplace,Desktop,Mercado,"R$ 138,84",RJ,sim
+202604-00230,2026-04-03,C19595,9,site,iOS,Mercado,"R$ 89,58",DF,nao
+202604-00231,2026-04-17,C16876,9,app,Android,Eletrônicos,"R$ 101,32",PE,sim
+202604-00232,2026-04-26,C33160,10,app,Android,Casa e Decoração,"R$ 186,93",SP,nao
+202604-00233,2026-04-12,C14250,6,site,Android,Livros,"R$ 259,87",SP,nao
+202604-00234,2026-04-20,C17625,7,app,Desktop,Eletrônicos,"R$ 213,93",MG,sim
+202604-00235,2026-04-24,C37789,9,app,Android,Beleza,"R$ 439,98",RJ,nao
+202604-00236,2026-04-18,C36412,8,app,iOS,Moda,"R$ 95,15",BA,nao
+202604-00237,2026-04-10,C19839,8,app,iOS,Eletrônicos,"R$ 98,28",RJ,sim
+202604-00238,2026-04-13,C33737,9,site,Desktop,Mercado,"R$ 39,20",BA,sim
+202604-00239,2026-04-22,C25699,6,app,Android,Livros,"R$ 57,54",BA,sim
+202604-00240,2026-04-28,C27595,10,app,Android,Mercado,"R$ 402,39",CE,nao
+202604-00241,2026-04-27,C27074,7,marketplace,Android,Casa e Decoração,"R$ 107,97",SP,sim
+202604-00242,2026-04-26,C39098,9,app,iOS,Moda,"R$ 274,05",BA,nao
+202604-00243,2026-04-13,C30529,6,site,iOS,Esporte,"R$ 143,58",BA,nao
+202604-00244,2026-04-28,C35635,10,app,Android,Casa e Decoração,"R$ 172,56",RJ,sim
+202604-00245,2026-04-16,C38739,9,app,Android,Casa e Decoração,"R$ 244,87",RJ,sim
+202604-00246,2026-04-04,C22262,2,site,Android,Eletrônicos,"R$ 195,30",MG,nao
+202604-00247,2026-04-17,C15048,6,site,Desktop,Livros,"R$ 33,74",CE,nao
+202604-00248,2026-04-25,C38567,9,site,Desktop,Esporte,"R$ 317,84",MG,sim
+202604-00249,2026-04-15,C22700,8,app,Android,Eletrônicos,"R$ 236,75",SP,nao
+202604-00250,2026-04-28,C12853,10,marketplace,Desktop,Eletrônicos,"R$ 305,04",SP,nao
+202604-00251,2026-04-21,C39233,10,app,iOS,Casa e Decoração,"R$ 204,28",RS,nao
+202604-00252,2026-04-22,C13855,8,site,iOS,Eletrônicos,"R$ 39,59",CE,sim
+202604-00253,2026-04-17,C13354,6,marketplace,Android,Casa e Decoração,"R$ 67,34",DF,nao
+202604-00254,2026-04-19,C18022,10,app,iOS,Casa e Decoração,"R$ 107,43",RS,nao
+202604-00255,2026-04-16,C39599,9,app,iOS,Eletrônicos,"R$ 178,76",SP,sim
+202604-00256,2026-04-23,C29533,8,app,Android,Livros,"R$ 398,03",MG,nao
+202604-00257,2026-04-11,C36785,6,site,Android,Mercado,"R$ 139,24",RS,sim
+202604-00258,2026-04-19,C14318,5,marketplace,Desktop,Livros,"R$ 48,23",CE,nao
+202604-00259,2026-04-22,C31116,7,app,Android,Moda,"R$ 118,40",RS,sim
+202604-00260,2026-04-09,C39912,8,app,iOS,Livros,"R$ 74,84",SP,nao
+202604-00261,2026-04-15,C25974,5,site,Android,Casa e Decoração,"R$ 114,64",BA,nao
+202604-00262,2026-04-10,C35163,5,app,Android,Esporte,"R$ 206,86",MG,sim
+202604-00263,2026-04-11,C28223,9,app,Android,Esporte,"R$ 43,80",RJ,nao
+202604-00264,2026-04-08,C30344,8,app,iOS,Beleza,"R$ 71,77",PE,nao
+202604-00265,2026-04-27,C32742,9,app,Android,Beleza,"R$ 310,54",PR,nao
+202604-00266,2026-04-06,C31712,4,site,Android,Livros,"R$ 131,70",PR,nao
+202604-00267,2026-04-15,C20661,8,app,Desktop,Moda,"R$ 194,40",SP,nao
+202604-00268,2026-04-20,C13563,7,marketplace,Android,Mercado,"R$ 71,78",RJ,nao
+202604-00269,2026-04-03,C17130,8,app,Desktop,Mercado,"R$ 69,60",SP,sim
+202604-00270,2026-04-15,C27408,10,site,Android,Beleza,"R$ 123,34",MG,sim
+202604-00271,2026-04-10,C28686,10,app,Android,Beleza,"R$ 116,46",BA,nao
+202604-00272,2026-04-01,C30037,5,marketplace,Android,Moda,"R$ 42,11",SP,nao
+202604-00273,2026-04-02,C10027,5,app,Desktop,Casa e Decoração,"R$ 40,09",DF,sim
+202604-00274,2026-04-08,C24146,7,marketplace,Android,Casa e Decoração,"R$ 173,49",SP,nao
+202604-00275,2026-04-18,C16921,5,app,Android,Moda,"R$ 227,36",PE,nao
+202604-00276,2026-04-27,C23671,7,site,Desktop,Livros,"R$ 134,66",BA,sim
+202604-00277,2026-04-21,C10514,10,app,Desktop,Livros,"R$ 227,65",RJ,nao
+202604-00278,2026-04-03,C14496,6,marketplace,Android,Beleza,"R$ 65,12",MG,nao
+202604-00279,2026-04-17,C23897,3,site,Android,Casa e Decoração,"R$ 73,45",CE,sim
+202604-00280,2026-04-01,C28937,8,app,Android,Livros,"R$ 60,88",SP,nao
+202604-00281,2026-04-19,C22024,8,app,iOS,Beleza,"R$ 128,23",DF,nao
+202604-00282,2026-04-23,C12623,8,app,Android,Mercado,"R$ 77,09",CE,nao
+202604-00283,2026-04-17,C39160,9,app,iOS,Livros,"R$ 165,56",RJ,sim
+202604-00284,2026-04-26,C28993,5,site,iOS,Casa e Decoração,"R$ 326,25",DF,sim
+202604-00285,2026-04-16,C28807,8,app,Android,Mercado,"R$ 123,12",DF,nao
+202604-00286,2026-04-23,C29583,10,app,Android,Esporte,"R$ 143,06",SP,nao
+202604-00287,2026-04-19,C15540,10,app,Android,Casa e Decoração,"R$ 148,56",CE,sim
+202604-00288,2026-04-05,C26567,7,app,Android,Casa e Decoração,"R$ 156,50",RJ,sim
+202604-00289,2026-04-28,C18419,5,site,,Eletrônicos,"R$ 131,10",RS,sim
+202604-00290,2026-04-22,C24635,7,marketplace,iOS,Mercado,"R$ 105,04",MG,sim
+202604-00291,2026-04-28,C11084,8,app,iOS,Moda,"R$ 32,55",DF,sim
+202604-00292,2026-04-25,C22555,7,site,Android,Livros,"R$ 129,67",PE,sim
+202604-00293,2026-04-02,C31045,9,app,Desktop,Eletrônicos,"R$ 59,18",BA,sim
+202604-00294,2026-04-10,C25606,10,app,Android,Esporte,"R$ 66,27",CE,sim
+202604-00295,2026-04-16,C18605,10,app,Desktop,Eletrônicos,"R$ 163,86",PE,nao
+202604-00296,2026-04-13,C32232,6,marketplace,Android,Eletrônicos,"R$ 421,04",CE,sim
+202604-00297,2026-04-28,C24148,4,marketplace,Android,Casa e Decoração,"R$ 231,23",BA,nao
+202604-00298,2026-04-09,C31441,10,app,Android,Livros,"R$ 75,99",RJ,sim
+202604-00299,2026-04-25,C16387,10,site,Android,Moda,"R$ 102,00",SP,nao
+202604-00300,2026-04-27,C12226,8,site,,Eletrônicos,"R$ 145,80",SP,sim
+202604-00301,2026-04-08,C33765,7,site,iOS,Eletrônicos,"R$ 214,34",BA,sim
+202604-00302,2026-04-22,C39293,10,app,Desktop,Livros,"R$ 35,73",SP,sim
+202604-00303,2026-04-03,C38063,10,site,Android,Mercado,"R$ 37,95",RJ,sim
+202604-00304,2026-04-09,C19652,9,marketplace,Desktop,Livros,"R$ 267,39",MG,nao
+202604-00305,2026-04-25,C23991,5,marketplace,Android,Mercado,"R$ 91,14",RS,nao
+202604-00306,2026-04-09,C35464,6,app,Android,Eletrônicos,"R$ 104,54",RJ,nao
+202604-00307,2026-04-06,C24436,6,marketplace,Desktop,Moda,"R$ 209,72",RS,nao
+202604-00308,2026-04-04,C14714,10,app,Android,Esporte,"R$ 322,78",CE,sim
+202604-00309,2026-04-04,C11142,6,marketplace,Android,Casa e Decoração,"R$ 104,96",RS,nao
+202604-00310,2026-04-05,C31393,5,app,Desktop,Livros,"R$ 69,12",CE,nao
+202604-00311,2026-04-13,C28829,10,app,,Livros,"R$ 376,50",BA,nao
+202604-00312,2026-04-28,C33847,6,app,Android,Esporte,"R$ 80,26",PE,sim
+202604-00313,2026-04-04,C28587,8,app,Desktop,Casa e Decoração,"R$ 147,84",CE,nao
+202604-00314,2026-04-12,C27518,7,app,iOS,Mercado,"R$ 163,50",RJ,nao
+202604-00315,2026-04-21,C16655,7,site,iOS,Beleza,"R$ 120,29",RS,sim
+202604-00316,2026-04-04,C30664,9,app,Android,Livros,"R$ 122,06",PE,nao
+202604-00317,2026-04-02,C16327,7,site,,Esporte,"R$ 112,54",MG,sim
+202604-00318,2026-04-26,C27712,8,app,Android,Mercado,"R$ 93,78",RJ,nao
+202604-00319,2026-04-02,C21117,6,marketplace,Android,Eletrônicos,"R$ 372,06",SP,nao
+202604-00320,2026-04-15,C32219,10,app,Android,Livros,"R$ 98,81",DF,sim
+202604-00321,2026-04-24,C14639,8,marketplace,iOS,Esporte,"R$ 96,19",SP,sim
+202604-00322,2026-04-01,C15644,10,app,Desktop,Mercado,"R$ 157,39",MG,sim
+202604-00323,2026-04-27,C29367,8,app,Desktop,Eletrônicos,"R$ 166,23",MG,nao
+202604-00324,2026-04-08,C12067,4,site,Android,Mercado,"R$ 55,22",SP,nao
+202604-00325,2026-04-18,C14500,6,app,Desktop,Moda,"R$ 134,30",SP,sim
+202604-00326,2026-04-03,C13956,10,site,Android,Moda,"R$ 579,35",BA,nao
+202604-00327,2026-04-08,C29070,9,site,iOS,Mercado,"R$ 172,53",CE,nao
+202604-00328,2026-04-16,C12645,4,site,,Moda,"R$ 83,11",SP,sim
+202604-00329,2026-04-10,C23638,6,site,Android,Beleza,"R$ 78,68",SP,sim
+202604-00330,2026-04-17,C24759,8,app,Desktop,Esporte,"R$ 87,32",RS,sim
+202604-00331,2026-04-20,C12884,4,site,Android,Casa e Decoração,"R$ 205,11",CE,nao
+202604-00332,2026-04-07,C13850,6,app,Desktop,Esporte,"R$ 143,66",PR,nao
+202604-00333,2026-04-17,C17185,10,marketplace,Android,Moda,"R$ 63,84",DF,nao
+202604-00334,2026-04-26,C14889,3,app,Desktop,Beleza,"R$ 99,46",RJ,nao
+202604-00335,2026-04-02,C31130,10,app,iOS,Casa e Decoração,"R$ 478,59",SP,nao
+202604-00336,2026-04-02,C13421,5,site,Desktop,Moda,"R$ 172,03",CE,sim
+202604-00337,2026-04-17,C13803,7,site,iOS,Beleza,"R$ 112,82",CE,nao
+202604-00338,2026-04-08,C35525,10,app,iOS,Moda,"R$ 42,43",BA,nao
+202604-00339,2026-04-08,C12409,7,marketplace,Android,Beleza,"R$ 168,58",PE,sim
+202604-00340,2026-04-15,C15834,10,app,iOS,Livros,"R$ 130,14",SP,sim
+202604-00341,2026-04-07,C21006,8,site,Android,Eletrônicos,"R$ 92,37",RS,nao
+202604-00342,2026-04-15,C23704,9,app,iOS,Casa e Decoração,"R$ 95,56",CE,sim
+202604-00343,2026-04-06,C28943,9,site,Desktop,Eletrônicos,"R$ 93,81",SP,nao
+202604-00344,2026-04-28,C17092,8,marketplace,Desktop,Casa e Decoração,"R$ 119,05",CE,sim
+202604-00345,2026-04-08,C20724,10,site,iOS,Esporte,"R$ 117,22",PR,sim
+202604-00346,2026-04-14,C11449,3,marketplace,Android,Mercado,"R$ 293,93",SP,sim
+202604-00347,2026-04-16,C36532,7,app,Desktop,Beleza,"R$ 76,89",PE,nao
+202604-00348,2026-04-25,C10407,7,app,Android,Moda,"R$ 318,02",DF,sim
+202604-00349,2026-04-21,C12973,4,app,,Livros,"R$ 1.092,72",PR,nao
+202604-00350,2026-04-28,C28690,10,app,iOS,Beleza,"R$ 142,06",CE,nao
+202604-00351,2026-04-06,C35882,7,site,Android,Livros,"R$ 148,40",PE,sim
+202604-00352,2026-04-13,C39276,8,marketplace,Android,Casa e Decoração,"R$ 190,88",RJ,nao
+202604-00353,2026-04-18,C28849,9,site,Android,Eletrônicos,"R$ 129,37",SP,nao
+202604-00354,2026-04-17,C39819,7,site,Desktop,Eletrônicos,"R$ 109,30",SP,nao
+202604-00355,2026-04-02,C21979,8,app,Android,Livros,"R$ 268,71",SP,sim
+202604-00356,2026-04-05,C20974,9,site,iOS,Beleza,"R$ 15,51",PR,sim
+202604-00357,2026-04-11,C21557,9,site,Android,Beleza,"R$ 139,26",PR,nao
+202604-00358,2026-04-12,C24824,8,app,Android,Eletrônicos,"R$ 92,58",BA,nao
+202604-00359,2026-04-10,C24810,10,site,Android,Livros,"R$ 235,87",DF,sim
+202604-00360,2026-04-03,C12627,7,app,iOS,Eletrônicos,"R$ 161,57",CE,sim
+202604-00361,2026-04-23,C14848,6,app,Desktop,Esporte,"R$ 46,26",RJ,sim
+202604-00362,2026-04-05,C25528,7,app,Android,Livros,"R$ 222,22",DF,sim
+202604-00363,2026-04-01,C38566,10,app,Desktop,Esporte,"R$ 174,02",RJ,nao
+202604-00364,2026-04-21,C31169,10,app,Android,Livros,"R$ 174,40",BA,nao
+202604-00365,2026-04-05,C39434,7,app,iOS,Casa e Decoração,"R$ 164,41",SP,sim
+202604-00366,2026-04-25,C37705,10,app,Android,Beleza,"R$ 206,03",RS,sim
+202604-00367,2026-04-23,C27541,10,site,Desktop,Mercado,"R$ 199,50",MG,sim
+202604-00368,2026-04-02,C20375,9,app,Android,Casa e Decoração,"R$ 257,01",RJ,sim
+202604-00369,2026-04-22,C20385,8,app,iOS,Beleza,"R$ 65,54",SP,sim
+202604-00370,2026-04-01,C23256,7,site,Android,Beleza,"R$ 72,14",RJ,nao
+202604-00371,2026-04-17,C20855,7,app,iOS,Casa e Decoração,"R$ 109,82",DF,sim
+202604-00372,2026-04-11,C32581,6,site,Android,Eletrônicos,"R$ 97,95",CE,sim
+202604-00373,2026-04-10,C10812,4,site,Desktop,Beleza,"R$ 141,08",RJ,nao
+202604-00374,2026-04-20,C31014,8,app,Android,Mercado,"R$ 68,58",SP,nao
+202604-00375,2026-04-18,C37834,10,app,Android,Eletrônicos,"R$ 234,23",RJ,nao
+202604-00376,2026-04-20,C29827,5,app,iOS,Livros,"R$ 71,24",BA,nao
+202604-00377,2026-04-12,C22652,7,app,iOS,Casa e Decoração,"R$ 62,93",PE,nao
+202604-00378,2026-04-03,C17067,8,marketplace,Android,Beleza,"R$ 106,09",DF,nao
+202604-00379,2026-04-24,C39374,8,app,Desktop,Esporte,"R$ 29,88",PE,sim
+202604-00380,2026-04-16,C38427,10,app,iOS,Esporte,"R$ 51,04",RS,nao
+202604-00381,2026-04-21,C39963,9,app,iOS,Beleza,"R$ 147,55",PE,sim
+202604-00382,2026-04-10,C28149,10,app,Desktop,Casa e Decoração,"R$ 48,61",PE,nao
+202604-00383,2026-04-08,C10879,2,app,iOS,Casa e Decoração,"R$ 138,20",CE,nao
+202604-00384,2026-04-14,C15877,10,app,Android,Moda,"R$ 289,24",RS,sim
+202604-00385,2026-04-16,C12186,9,app,Android,Beleza,"R$ 86,13",RS,nao
+202604-00386,2026-04-23,C36813,8,marketplace,Android,Esporte,"R$ 61,47",CE,sim
+202604-00387,2026-04-19,C11917,9,site,Android,Livros,"R$ 173,09",MG,sim
+202604-00388,2026-04-09,C21834,10,app,Desktop,Casa e Decoração,"R$ 838,62",SP,sim
+202604-00389,2026-04-21,C12517,9,app,Android,Moda,"R$ 85,09",DF,sim
+202604-00390,2026-04-18,C20571,8,site,Desktop,Livros,"R$ 35,22",MG,nao
+202604-00391,2026-04-04,C27511,7,app,Desktop,Eletrônicos,"R$ 91,24",BA,sim
+202604-00392,2026-04-25,C25889,7,site,Desktop,Moda,"R$ 135,19",BA,sim
+202604-00393,2026-04-08,C37249,7,app,Desktop,Esporte,"R$ 266,33",DF,sim
+202604-00394,2026-04-04,C36831,8,app,iOS,Casa e Decoração,"R$ 120,72",RJ,nao
+202604-00395,2026-04-27,C24481,7,site,Android,Mercado,"R$ 135,45",MG,nao
+202604-00396,2026-04-01,C34394,10,app,iOS,Mercado,"R$ 66,22",RS,sim
+202604-00397,2026-04-05,C16876,6,site,iOS,Livros,"R$ 98,24",RS,sim
+202604-00398,2026-04-25,C24131,6,app,iOS,Mercado,"R$ 68,48",CE,sim
+202604-00399,2026-04-02,C12170,7,app,iOS,Eletrônicos,"R$ 224,10",RS,sim
+202604-00400,2026-04-19,C39529,7,marketplace,Android,Eletrônicos,"R$ 139,14",PR,sim
+202604-00401,2026-04-19,C21397,10,app,Desktop,Mercado,"R$ 110,37",RS,sim
+202604-00402,2026-04-04,C36856,8,site,iOS,Moda,"R$ 113,04",RJ,sim
+202604-00403,2026-04-25,C27600,7,marketplace,,Livros,"R$ 80,81",MG,sim
+202604-00404,2026-04-28,C33191,2,marketplace,Android,Moda,"R$ 110,61",DF,nao
+202604-00405,2026-04-06,C37352,10,site,Android,Moda,"R$ 232,37",RJ,sim
+202604-00406,2026-04-04,C25266,10,app,iOS,Mercado,"R$ 288,67",BA,nao
+202604-00407,2026-04-24,C11330,8,site,Android,Beleza,"R$ 139,51",DF,nao
+202604-00408,2026-04-22,C37560,7,app,Android,Casa e Decoração,"R$ 97,39",RS,nao
+202604-00409,2026-04-27,C36294,10,app,Android,Moda,"R$ 282,23",RJ,sim
+202604-00410,2026-04-22,C13446,7,marketplace,Android,Livros,"R$ 88,67",CE,sim
+202604-00411,2026-04-13,C32774,8,app,iOS,Moda,"R$ 185,09",PE,sim
+202604-00412,2026-04-11,C16562,6,app,Desktop,Eletrônicos,"R$ 24,35",PR,sim
+202604-00413,2026-04-09,C35061,6,site,Android,Casa e Decoração,"R$ 51,70",CE,nao
+202604-00414,2026-04-13,C25877,7,app,iOS,Beleza,"R$ 109,57",SP,sim
+202604-00415,2026-04-16,C17563,7,app,iOS,Eletrônicos,"R$ 335,87",CE,sim
+202604-00416,2026-04-22,C10876,8,site,Android,Livros,"R$ 149,95",CE,nao
+202604-00417,2026-04-20,C13156,10,app,Android,Esporte,"R$ 54,75",SP,nao
+202604-00418,2026-04-10,C31695,10,site,Android,Esporte,"R$ 115,23",PR,nao
+202604-00419,2026-04-18,C10579,9,site,iOS,Beleza,"R$ 57,38",DF,sim
+202604-00420,2026-04-28,C22331,5,app,iOS,Moda,"R$ 215,41",BA,nao
+202604-00421,2026-04-16,C24112,8,marketplace,Android,Beleza,"R$ 64,62",MG,sim
+202604-00422,2026-04-22,C28146,6,site,Android,Beleza,"R$ 267,15",CE,sim
+202604-00423,2026-04-09,C26210,5,site,Android,Livros,"R$ 383,70",PE,nao
+202604-00424,2026-04-11,C12012,6,site,,Eletrônicos,"R$ 189,97",RS,sim
+202604-00425,2026-04-26,C34315,7,site,Android,Livros,"R$ 185,35",BA,nao
+202604-00426,2026-04-12,C21710,7,app,iOS,Moda,"R$ 108,42",PE,sim
+202604-00427,2026-04-19,C12783,8,app,iOS,Casa e Decoração,"R$ 60,25",RS,sim
+202604-00428,2026-04-18,C20686,10,app,Android,Beleza,"R$ 84,84",SP,nao
+202604-00429,2026-04-19,C10728,8,app,Android,Beleza,"R$ 60,58",CE,nao
+202604-00430,2026-04-04,C32638,2,site,iOS,Esporte,"R$ 106,30",CE,nao
+202604-00431,2026-04-12,C24286,10,app,Android,Mercado,"R$ 210,44",RS,sim
+202604-00432,2026-04-07,C19416,8,site,iOS,Esporte,"R$ 101,09",DF,nao
+202604-00433,2026-04-24,C13013,8,site,Android,Esporte,"R$ 178,21",SP,nao
+202604-00434,2026-04-26,C27401,6,app,iOS,Mercado,"R$ 265,08",SP,sim
+202604-00435,2026-04-17,C36349,9,site,Android,Casa e Decoração,"R$ 200,88",RS,sim
+202604-00436,2026-04-20,C26887,9,app,Android,Moda,"R$ 123,19",RS,sim
+202604-00437,2026-04-28,C16112,9,site,iOS,Mercado,"R$ 183,88",DF,nao
+202604-00438,2026-04-26,C30133,8,app,Desktop,Esporte,"R$ 81,33",DF,sim
+202604-00439,2026-04-15,C14841,8,site,Android,Mercado,"R$ 359,36",BA,nao
+202604-00440,2026-04-11,C38186,5,site,iOS,Moda,"R$ 43,50",PE,nao
+202604-00441,2026-04-21,C15262,9,app,Android,Beleza,"R$ 125,92",RS,sim
+202604-00442,2026-04-01,C18047,9,app,iOS,Beleza,"R$ 144,14",PR,nao
+202604-00443,2026-04-07,C15221,8,app,iOS,Mercado,"R$ 344,78",SP,nao
+202604-00444,2026-04-21,C37935,4,site,Android,Mercado,"R$ 68,04",MG,sim
+202604-00445,2026-04-11,C29713,8,app,iOS,Beleza,"R$ 38,47",RJ,nao
+202604-00446,2026-04-13,C37518,7,site,iOS,Eletrônicos,"R$ 388,79",RJ,sim
+202604-00447,2026-04-25,C27211,8,site,Desktop,Moda,"R$ 142,81",SP,sim
+202604-00448,2026-04-11,C37273,5,site,Android,Livros,"R$ 78,93",BA,sim
+202604-00449,2026-04-05,C13500,6,marketplace,Desktop,Beleza,"R$ 97,28",PR,nao
+202604-00450,2026-04-02,C26068,10,app,Android,Eletrônicos,"R$ 179,54",SP,nao
+202604-00451,2026-04-22,C18072,5,site,Desktop,Moda,"R$ 144,40",CE,nao
+202604-00452,2026-04-27,C20098,9,app,,Esporte,"R$ 269,91",BA,sim
+202604-00453,2026-04-23,C35847,10,site,iOS,Beleza,"R$ 59,71",SP,nao
+202604-00454,2026-04-26,C32454,6,site,Desktop,Mercado,"R$ 50,39",BA,nao
+202604-00455,2026-04-09,C19859,8,app,Desktop,Moda,"R$ 168,42",PE,nao
+202604-00456,2026-04-15,C30688,10,app,Desktop,Livros,"R$ 115,22",MG,nao
+202604-00457,2026-04-28,C12624,7,site,Desktop,Beleza,"R$ 135,13",RS,nao
+202604-00458,2026-04-23,C23840,5,marketplace,Desktop,Mercado,"R$ 524,62",BA,sim
+202604-00459,2026-04-03,C21529,4,site,Android,Esporte,"R$ 138,29",DF,nao
+202604-00460,2026-04-25,C11707,10,app,iOS,Beleza,"R$ 122,09",SP,sim
+202604-00461,2026-04-21,C20012,8,app,iOS,Moda,"R$ 94,61",PR,sim
+202604-00462,2026-04-28,C29464,7,site,Android,Casa e Decoração,"R$ 317,66",MG,nao
+202604-00463,2026-04-09,C15684,4,app,Desktop,Mercado,"R$ 355,46",MG,nao
+202604-00464,2026-04-12,C15960,6,app,Android,Mercado,"R$ 100,82",PE,sim
+202604-00465,2026-04-18,C31204,8,app,iOS,Eletrônicos,"R$ 183,46",SP,nao
+202604-00466,2026-04-02,C23141,5,app,Android,Moda,"R$ 167,93",MG,sim
+202604-00467,2026-04-19,C13845,10,marketplace,,Esporte,"R$ 46,80",MG,nao
+202604-00468,2026-04-27,C32072,8,site,iOS,Moda,"R$ 76,45",CE,sim
+202604-00469,2026-04-10,C34459,8,marketplace,iOS,Mercado,"R$ 123,15",RS,sim
+202604-00470,2026-04-24,C32190,6,site,iOS,Mercado,"R$ 170,97",RS,sim
+202604-00471,2026-04-08,C30240,10,app,iOS,Esporte,"R$ 106,31",RS,nao
+202604-00472,2026-04-05,C38555,10,app,Android,Livros,"R$ 49,14",CE,sim
+202604-00473,2026-04-24,C29568,6,site,iOS,Eletrônicos,"R$ 169,13",PE,sim
+202604-00474,2026-04-16,C39760,10,app,Android,Livros,"R$ 155,86",PR,sim
+202604-00475,2026-04-20,C22482,8,app,Android,Casa e Decoração,"R$ 121,45",DF,sim
+202604-00476,2026-04-02,C29021,4,marketplace,iOS,Beleza,"R$ 185,52",DF,nao
+202604-00477,2026-04-03,C20397,9,marketplace,Android,Casa e Decoração,"R$ 88,55",MG,sim
+202604-00478,2026-04-16,C38563,7,app,iOS,Casa e Decoração,"R$ 146,37",MG,nao
+202604-00479,2026-04-20,C37183,8,app,iOS,Casa e Decoração,"R$ 116,01",RS,nao
+202604-00480,2026-04-24,C26098,10,marketplace,iOS,Mercado,"R$ 102,22",BA,nao
+202604-00481,2026-04-02,C17532,8,app,Android,Moda,"R$ 77,22",MG,nao
+202604-00482,2026-04-02,C24467,10,app,Android,Beleza,"R$ 107,03",CE,nao
+202604-00483,2026-04-04,C21455,7,app,Desktop,Moda,"R$ 306,41",MG,sim
+202604-00484,2026-04-19,C39192,10,site,iOS,Eletrônicos,"R$ 79,81",RS,sim
+202604-00485,2026-04-08,C35174,5,app,iOS,Casa e Decoração,"R$ 245,98",RJ,sim
+202604-00486,2026-04-13,C22240,7,app,Desktop,Mercado,"R$ 211,33",RJ,nao
+202604-00487,2026-04-15,C37220,4,app,Android,Livros,"R$ 226,97",RJ,nao
+202604-00488,2026-04-11,C11436,5,site,Desktop,Casa e Decoração,"R$ 202,66",SP,sim
+202604-00489,2026-04-26,C31090,8,app,Android,Livros,"R$ 62,32",SP,sim
+202604-00490,2026-04-13,C13032,7,site,iOS,Mercado,"R$ 196,45",SP,nao
+202604-00491,2026-04-06,C22730,9,app,iOS,Mercado,"R$ 182,93",PR,sim
+202604-00492,2026-04-26,C24167,10,app,Desktop,Livros,"R$ 40,65",CE,sim
+202604-00493,2026-04-27,C22040,10,app,Android,Beleza,"R$ 130,72",RJ,nao
+202604-00494,2026-04-14,C12956,7,app,Desktop,Esporte,"R$ 47,88",SP,sim
+202604-00495,2026-04-03,C11325,8,app,Desktop,Livros,"R$ 231,63",PE,sim
+202604-00496,2026-04-16,C27277,7,site,Android,Casa e Decoração,"R$ 349,96",MG,nao
+202604-00497,2026-04-10,C14869,5,app,Android,Casa e Decoração,"R$ 120,49",CE,sim
+202604-00498,2026-04-19,C11563,5,site,Desktop,Esporte,"R$ 156,73",RS,sim
+202604-00499,2026-04-04,C25225,9,site,Android,Casa e Decoração,"R$ 90,51",PE,nao
+202604-00500,2026-04-25,C26496,3,app,,Livros,"R$ 139,67",RJ,nao
+202604-00501,2026-04-27,C22876,9,app,Android,Livros,"R$ 161,26",MG,nao
+202604-00502,2026-04-25,C31963,10,app,Desktop,Casa e Decoração,"R$ 57,41",CE,sim
+202604-00503,2026-04-24,C29793,10,app,Android,Beleza,"R$ 279,99",RJ,sim
+202604-00504,2026-04-01,C15627,5,app,Android,Beleza,"R$ 151,98",RJ,nao
+202604-00505,2026-04-12,C32631,7,app,Android,Beleza,"R$ 114,77",SP,nao
+202604-00506,2026-04-01,C16252,9,app,iOS,Moda,"R$ 86,40",MG,sim
+202604-00507,2026-04-21,C17922,7,app,Android,Mercado,"R$ 124,45",MG,sim
+202604-00508,2026-04-05,C25531,6,app,iOS,Moda,"R$ 56,82",CE,nao
+202604-00509,2026-04-01,C38173,8,marketplace,iOS,Casa e Decoração,"R$ 54,37",CE,nao
+202604-00510,2026-04-04,C30657,10,app,Android,Beleza,"R$ 167,97",SP,nao
+202604-00511,2026-04-24,C28163,4,site,iOS,Beleza,"R$ 75,62",SP,nao
+202604-00512,2026-04-22,C39657,10,site,Android,Livros,"R$ 61,14",SP,sim
+202604-00513,2026-04-19,C20349,7,site,iOS,Livros,"R$ 167,91",PE,nao
+202604-00514,2026-04-16,C30404,8,marketplace,iOS,Livros,"R$ 101,89",RJ,nao
+202604-00515,2026-04-24,C16298,7,app,Android,Esporte,"R$ 328,87",RS,sim
+202604-00516,2026-04-20,C37965,10,site,Android,Moda,"R$ 241,10",BA,nao
+202604-00517,2026-04-14,C37298,8,site,Android,Casa e Decoração,"R$ 69,01",PE,nao
+202604-00518,2026-04-20,C16789,6,site,Android,Livros,"R$ 175,17",MG,nao
+202604-00519,2026-04-06,C29849,9,app,Android,Beleza,"R$ 324,12",PR,nao
+202604-00520,2026-04-02,C10594,10,app,iOS,Livros,"R$ 42,43",DF,sim
+202604-00521,2026-04-02,C36437,10,app,Android,Esporte,"R$ 60,42",DF,sim
+202604-00522,2026-04-16,C18448,8,app,Android,Mercado,"R$ 144,77",PR,sim
+202604-00523,2026-04-09,C39370,10,site,Android,Esporte,"R$ 1.071,64",DF,sim
+202604-00524,2026-04-26,C24979,9,site,Android,Eletrônicos,"R$ 106,89",CE,sim
+202604-00525,2026-04-17,C13454,9,site,iOS,Moda,"R$ 226,19",SP,nao
+202604-00526,2026-04-23,C24467,8,app,Android,Mercado,"R$ 426,94",RS,sim
+202604-00527,2026-04-11,C36842,9,app,Desktop,Beleza,"R$ 172,16",BA,nao
+202604-00528,2026-04-08,C37355,9,site,iOS,Esporte,"R$ 163,22",SP,sim
+202604-00529,2026-04-23,C34734,10,app,Android,Moda,"R$ 78,88",BA,sim
+202604-00530,2026-04-14,C35795,6,site,Desktop,Beleza,"R$ 56,25",DF,nao
+202604-00531,2026-04-26,C32354,8,marketplace,iOS,Moda,"R$ 209,61",DF,sim
+202604-00532,2026-04-03,C12778,9,site,Android,Mercado,"R$ 392,35",DF,sim
+202604-00533,2026-04-25,C11215,8,app,Android,Esporte,"R$ 194,05",PE,sim
+202604-00534,2026-04-10,C23739,5,marketplace,Android,Esporte,"R$ 92,67",DF,nao
+202604-00535,2026-04-12,C10258,9,site,Desktop,Esporte,"R$ 220,16",BA,sim
+202604-00536,2026-04-21,C16721,7,site,Android,Esporte,"R$ 115,57",CE,nao
+202604-00537,2026-04-25,C16464,5,site,iOS,Esporte,"R$ 94,64",PE,nao
+202604-00538,2026-04-17,C27720,10,app,iOS,Esporte,"R$ 181,75",MG,nao
+202604-00539,2026-04-01,C10913,9,site,Android,Casa e Decoração,"R$ 125,82",MG,sim
+202604-00540,2026-04-24,C23852,8,site,iOS,Eletrônicos,"R$ 76,54",RS,nao
+202604-00541,2026-04-12,C14057,10,app,Android,Eletrônicos,"R$ 163,15",DF,nao
+202604-00542,2026-04-15,C21107,9,app,Desktop,Esporte,"R$ 84,08",SP,sim
+202604-00543,2026-04-22,C35715,4,app,Android,Moda,"R$ 261,91",RS,nao
+202604-00544,2026-04-04,C20742,7,site,iOS,Mercado,"R$ 66,42",PR,nao
+202604-00545,2026-04-23,C23949,10,app,iOS,Eletrônicos,"R$ 92,35",MG,nao
+202604-00546,2026-04-07,C24619,9,marketplace,Android,Beleza,"R$ 187,15",CE,nao
+202604-00547,2026-04-16,C30855,8,marketplace,Android,Beleza,"R$ 46,70",SP,nao
+202604-00548,2026-04-17,C14165,10,site,Android,Livros,"R$ 145,89",MG,sim
+202604-00549,2026-04-16,C11068,7,site,Desktop,Casa e Decoração,"R$ 134,34",CE,sim
+202604-00550,2026-04-04,C13960,4,site,iOS,Esporte,"R$ 161,75",PE,sim
+202604-00551,2026-04-12,C19937,6,app,iOS,Moda,"R$ 47,14",RS,sim
+202604-00552,2026-04-02,C39302,5,site,iOS,Moda,"R$ 264,78",PE,nao
+202604-00553,2026-04-12,C12213,7,app,Android,Esporte,"R$ 355,53",DF,nao
+202604-00554,2026-04-26,C22363,7,site,Android,Esporte,"R$ 36,78",BA,sim
+202604-00555,2026-04-21,C25103,5,site,Android,Moda,"R$ 288,61",DF,nao
+202604-00556,2026-04-22,C30433,8,app,iOS,Beleza,"R$ 82,78",SP,nao
+202604-00557,2026-04-24,C19089,8,site,Desktop,Livros,"R$ 172,65",CE,sim
+202604-00558,2026-04-18,C31140,10,site,Android,Moda,"R$ 334,94",RS,sim
+202604-00559,2026-04-07,C34594,6,marketplace,Desktop,Eletrônicos,"R$ 48,03",DF,sim
+202604-00560,2026-04-26,C16743,6,marketplace,Android,Esporte,"R$ 145,79",RS,nao
+202604-00561,2026-04-20,C20499,6,app,iOS,Mercado,"R$ 62,18",DF,sim
+202604-00562,2026-04-14,C10788,9,app,iOS,Casa e Decoração,"R$ 117,44",MG,sim
+202604-00563,2026-04-18,C15510,8,app,iOS,Mercado,"R$ 71,45",RJ,sim
+202604-00564,2026-04-22,C15544,8,app,Desktop,Moda,"R$ 63,63",PE,sim
+202604-00565,2026-04-13,C13235,9,site,Android,Casa e Decoração,"R$ 250,80",RS,nao
+202604-00566,2026-04-02,C16637,5,app,Android,Moda,"R$ 63,39",RJ,nao
+202604-00567,2026-04-13,C13770,5,site,iOS,Esporte,"R$ 77,09",DF,nao
+202604-00568,2026-04-14,C30759,8,app,Desktop,Casa e Decoração,"R$ 44,05",SP,sim
+202604-00569,2026-04-21,C35729,7,app,Android,Beleza,"R$ 60,17",DF,sim
+202604-00570,2026-04-07,C35653,8,site,Android,Moda,"R$ 127,55",DF,sim
+202604-00571,2026-04-18,C24802,6,site,Desktop,Mercado,"R$ 137,52",PE,nao
+202604-00572,2026-04-01,C11971,7,site,Android,Esporte,"R$ 100,47",MG,nao
+202604-00573,2026-04-12,C37605,10,site,Android,Esporte,"R$ 310,54",PE,nao
+202604-00574,2026-04-19,C12291,6,app,Android,Eletrônicos,"R$ 217,20",DF,sim
+202604-00575,2026-04-14,C16909,9,site,Desktop,Casa e Decoração,"R$ 54,39",RS,nao
+202604-00576,2026-04-09,C18058,9,site,iOS,Moda,"R$ 356,58",CE,nao
+202604-00577,2026-04-01,C39950,5,marketplace,Android,Eletrônicos,"R$ 63,93",BA,nao
+202604-00578,2026-04-22,C15686,10,app,Desktop,Livros,"R$ 146,94",SP,nao
+202604-00579,2026-04-03,C35798,9,site,Android,Esporte,"R$ 154,22",DF,sim
+202604-00580,2026-04-22,C14044,8,marketplace,Desktop,Mercado,"R$ 48,01",CE,nao
+202604-00581,2026-04-04,C25161,10,app,iOS,Eletrônicos,"R$ 275,53",SP,sim
+202604-00582,2026-04-22,C33238,7,site,iOS,Esporte,"R$ 117,87",RS,nao
+202604-00583,2026-04-08,C26181,5,site,iOS,Beleza,"R$ 174,16",PR,sim
+202604-00584,2026-04-04,C38505,10,app,Android,Moda,"R$ 116,33",PE,sim
+202604-00585,2026-04-22,C32360,10,site,iOS,Esporte,"R$ 96,17",SP,sim
+202604-00586,2026-04-09,C28674,9,site,Desktop,Livros,"R$ 59,52",MG,nao
+202604-00587,2026-04-23,C32208,8,app,iOS,Esporte,"R$ 107,55",SP,nao
+202604-00588,2026-04-21,C32056,9,app,iOS,Casa e Decoração,"R$ 93,82",PE,nao
+202604-00589,2026-04-09,C13988,7,site,Android,Casa e Decoração,"R$ 216,64",PE,sim
+202604-00590,2026-04-02,C19107,6,marketplace,Android,Casa e Decoração,"R$ 39,46",PR,sim
+202604-00591,2026-04-03,C38839,10,app,iOS,Livros,"R$ 319,58",BA,sim
+202604-00592,2026-04-03,C18191,4,marketplace,iOS,Eletrônicos,"R$ 196,92",PE,sim
+202604-00593,2026-04-26,C10787,7,app,Android,Casa e Decoração,"R$ 146,12",PE,nao
+202604-00594,2026-04-08,C21167,9,app,Desktop,Esporte,"R$ 103,12",CE,sim
+202604-00595,2026-04-20,C24369,5,marketplace,Android,Esporte,"R$ 74,94",SP,sim
+202604-00596,2026-04-02,C22366,7,app,Desktop,Eletrônicos,"R$ 67,88",SP,sim
+202604-00597,2026-04-02,C19878,8,app,Android,Eletrônicos,"R$ 73,62",CE,sim
+202604-00598,2026-04-28,C22499,9,site,Android,Beleza,"R$ 344,15",RS,sim
+202604-00599,2026-04-01,C24857,6,marketplace,Android,Esporte,"R$ 143,68",SP,sim
+202604-00600,2026-04-15,C26948,9,app,iOS,Eletrônicos,"R$ 169,09",SP,sim
+202604-00601,2026-04-19,C35867,8,site,Desktop,Moda,"R$ 204,36",RJ,nao
+202604-00602,2026-04-24,C30344,9,app,iOS,Mercado,"R$ 51,09",CE,sim
+202604-00603,2026-04-19,C24281,10,app,Android,Casa e Decoração,"R$ 226,13",RS,nao
+202604-00604,2026-04-25,C14771,6,site,iOS,Casa e Decoração,"R$ 124,78",DF,nao
+202604-00605,2026-04-17,C29216,10,app,iOS,Moda,"R$ 104,95",SP,sim
+202604-00606,2026-04-07,C30989,10,app,Android,Casa e Decoração,"R$ 635,69",PR,sim
+202604-00607,2026-04-20,C32689,6,site,Android,Casa e Decoração,"R$ 46,21",CE,nao
+202604-00608,2026-04-04,C24886,9,app,Desktop,Beleza,"R$ 201,36",MG,sim
+202604-00609,2026-04-23,C17545,6,marketplace,iOS,Beleza,"R$ 336,06",PR,nao
+202604-00610,2026-04-07,C23117,5,site,Desktop,Casa e Decoração,"R$ 197,36",PE,sim
+202604-00611,2026-04-18,C13774,7,app,Android,Livros,"R$ 404,87",SP,nao
+202604-00612,2026-04-07,C16482,10,app,iOS,Casa e Decoração,"R$ 71,05",SP,sim
+202604-00613,2026-04-08,C15850,7,app,iOS,Casa e Decoração,"R$ 221,79",DF,sim
+202604-00614,2026-04-13,C31458,8,app,iOS,Moda,"R$ 117,71",MG,nao
+202604-00615,2026-04-26,C22201,8,app,Desktop,Mercado,"R$ 31,70",BA,nao
+202604-00616,2026-04-04,C14732,7,marketplace,iOS,Moda,"R$ 74,98",RJ,sim
+202604-00617,2026-04-11,C29646,7,site,Android,Eletrônicos,"R$ 333,80",BA,sim
+202604-00618,2026-04-26,C14868,4,marketplace,iOS,Mercado,"R$ 214,70",RS,nao
+202604-00619,2026-04-19,C39027,6,marketplace,Android,Mercado,"R$ 99,90",DF,nao
+202604-00620,2026-04-03,C15486,9,site,Android,Livros,"R$ 154,17",SP,nao
+202604-00621,2026-04-06,C20545,10,app,Android,Beleza,"R$ 239,30",CE,nao
+202604-00622,2026-04-13,C30909,8,app,Android,Eletrônicos,"R$ 79,16",SP,sim
+202604-00623,2026-04-15,C38284,6,app,iOS,Beleza,"R$ 68,18",PR,nao
+202604-00624,2026-04-09,C28040,10,site,Android,Casa e Decoração,"R$ 290,40",BA,nao
+202604-00625,2026-04-19,C11348,5,site,Android,Beleza,"R$ 48,15",PR,nao
+202604-00626,2026-04-12,C36362,9,app,iOS,Eletrônicos,"R$ 178,23",PE,sim
+202604-00627,2026-04-21,C12486,9,app,iOS,Mercado,"R$ 101,65",RS,sim
+202604-00628,2026-04-04,C13885,7,site,iOS,Moda,"R$ 152,86",PR,nao
+202604-00629,2026-04-09,C19919,9,app,Android,Mercado,"R$ 25,70",BA,nao
+202604-00630,2026-04-05,C38016,8,app,Android,Casa e Decoração,"R$ 66,95",SP,sim
+202604-00631,2026-04-27,C21358,8,site,Android,Beleza,"R$ 982,09",RS,sim
+202604-00632,2026-04-25,C14891,9,app,iOS,Livros,"R$ 97,57",DF,sim
+202604-00633,2026-04-19,C35754,10,app,Android,Mercado,"R$ 170,35",DF,nao
+202604-00634,2026-04-11,C37715,9,app,Android,Livros,"R$ 185,82",RJ,nao
+202604-00635,2026-04-28,C28299,10,app,iOS,Mercado,"R$ 55,06",CE,sim
+202604-00636,2026-04-16,C36555,9,app,Android,Moda,"R$ 63,53",SP,nao
+202604-00637,2026-04-25,C35514,10,app,iOS,Esporte,"R$ 63,87",PE,sim
+202604-00638,2026-04-05,C15036,7,site,Desktop,Esporte,"R$ 98,83",SP,nao
+202604-00639,2026-04-13,C12087,9,marketplace,iOS,Eletrônicos,"R$ 231,12",PR,nao
+202604-00640,2026-04-21,C39318,5,site,iOS,Livros,"R$ 126,27",CE,sim
+202604-00641,2026-04-16,C10879,7,app,iOS,Beleza,"R$ 50,35",SP,nao
+202604-00642,2026-04-22,C27183,8,app,iOS,Esporte,"R$ 97,91",RS,sim
+202604-00643,2026-04-13,C15145,10,app,iOS,Beleza,"R$ 164,53",PE,nao
+202604-00644,2026-04-28,C16765,5,site,iOS,Beleza,"R$ 81,83",PE,nao
+202604-00645,2026-04-10,C29250,10,app,Android,Beleza,"R$ 524,22",SP,nao
+202604-00646,2026-04-15,C12096,5,app,Android,Moda,"R$ 32,59",MG,nao
+202604-00647,2026-04-15,C25161,10,marketplace,Android,Casa e Decoração,"R$ 159,61",CE,nao
+202604-00648,2026-04-13,C30087,7,app,Desktop,Beleza,"R$ 176,66",RS,sim
+202604-00649,2026-04-24,C24158,3,app,Desktop,Moda,"R$ 121,80",SP,sim
+202604-00650,2026-04-08,C39017,9,app,iOS,Livros,"R$ 232,06",SP,nao
+202604-00651,2026-04-23,C33807,6,site,iOS,Beleza,"R$ 129,02",RJ,nao
+202604-00652,2026-04-04,C22082,5,marketplace,iOS,Mercado,"R$ 145,30",DF,nao
+202604-00653,2026-04-09,C16795,7,app,Android,Eletrônicos,"R$ 91,32",MG,nao
+202604-00654,2026-04-28,C16370,6,app,iOS,Eletrônicos,"R$ 191,67",PE,sim
+202604-00655,2026-04-16,C25117,10,app,Android,Moda,"R$ 103,11",CE,nao
+202604-00656,2026-04-27,C15287,8,app,iOS,Eletrônicos,"R$ 44,08",RS,sim
+202604-00657,2026-04-24,C22807,8,app,Android,Eletrônicos,"R$ 117,31",DF,nao
+202604-00658,2026-04-06,C17099,10,app,Desktop,Esporte,"R$ 55,79",BA,sim
+202604-00659,2026-04-27,C30800,10,app,Android,Livros,"R$ 244,15",SP,sim
+202604-00660,2026-04-15,C11717,9,app,iOS,Beleza,"R$ 416,15",RS,sim
+202604-00661,2026-04-08,C16553,8,marketplace,Android,Eletrônicos,"R$ 159,56",BA,nao
+202604-00662,2026-04-08,C38910,7,site,Desktop,Livros,"R$ 286,14",RJ,sim
+202604-00663,2026-04-14,C26793,10,site,iOS,Esporte,"R$ 78,42",SP,sim
+202604-00664,2026-04-13,C24020,5,site,iOS,Casa e Decoração,"R$ 105,42",DF,nao
+202604-00665,2026-04-21,C20362,7,app,,Moda,"R$ 116,23",PE,nao
+202604-00666,2026-04-21,C30444,10,app,iOS,Moda,"R$ 88,22",RS,nao
+202604-00667,2026-04-16,C13336,8,app,Android,Mercado,"R$ 126,55",SP,sim
+202604-00668,2026-04-20,C20628,10,app,Android,Livros,"R$ 25,21",RJ,sim
+202604-00669,2026-04-28,C31835,7,app,iOS,Esporte,"R$ 140,88",BA,nao
+202604-00670,2026-04-17,C29250,10,app,iOS,Eletrônicos,"R$ 86,11",PR,sim
+202604-00671,2026-04-25,C17980,5,app,iOS,Casa e Decoração,"R$ 187,50",PE,nao
+202604-00672,2026-04-13,C16697,7,app,iOS,Livros,"R$ 52,84",MG,nao
+202604-00673,2026-04-05,C19113,6,site,Android,Eletrônicos,"R$ 106,79",BA,nao
+202604-00674,2026-04-25,C10776,6,site,Android,Casa e Decoração,"R$ 25,95",RS,sim
+202604-00675,2026-04-22,C18137,10,app,Android,Moda,"R$ 296,61",SP,nao
+202604-00676,2026-04-15,C30636,9,site,,Mercado,"R$ 54,80",MG,nao
+202604-00677,2026-04-02,C30786,8,app,Desktop,Moda,"R$ 120,96",PR,sim
+202604-00678,2026-04-27,C36058,10,app,iOS,Eletrônicos,"R$ 194,00",DF,nao
+202604-00679,2026-04-06,C33647,6,site,Android,Esporte,"R$ 128,69",RS,sim
+202604-00680,2026-04-15,C30827,9,app,Desktop,Beleza,"R$ 336,66",SP,sim
+202604-00681,2026-04-13,C22377,8,marketplace,Android,Esporte,"R$ 211,10",BA,nao
+202604-00682,2026-04-01,C34966,8,site,Desktop,Mercado,"R$ 326,14",CE,nao
+202604-00683,2026-04-18,C33810,8,site,Android,Casa e Decoração,"R$ 66,50",MG,nao
+202604-00684,2026-04-20,C25756,10,app,iOS,Beleza,"R$ 198,05",DF,sim
+202604-00685,2026-04-01,C10420,8,app,Android,Casa e Decoração,"R$ 86,86",PR,nao
+202604-00686,2026-04-13,C34320,9,app,Android,Livros,"R$ 168,04",PE,sim
+202604-00687,2026-04-04,C22609,9,app,iOS,Mercado,"R$ 151,10",SP,nao
+202604-00688,2026-04-17,C33236,10,marketplace,Android,Livros,"R$ 257,26",BA,sim
+202604-00689,2026-04-24,C18086,8,site,iOS,Mercado,"R$ 234,84",PE,nao
+202604-00690,2026-04-23,C31812,6,site,iOS,Beleza,"R$ 160,54",SP,sim
+202604-00691,2026-04-19,C31712,10,app,iOS,Mercado,"R$ 104,31",SP,sim
+202604-00692,2026-04-13,C33136,6,site,Desktop,Esporte,"R$ 76,98",PE,sim
+202604-00693,2026-04-27,C23987,5,marketplace,iOS,Esporte,"R$ 70,15",MG,nao
+202604-00694,2026-04-25,C38717,7,site,Desktop,Eletrônicos,"R$ 45,43",PE,nao
+202604-00695,2026-04-24,C16865,8,site,Android,Casa e Decoração,"R$ 228,51",RS,sim
+202604-00696,2026-04-01,C13174,5,marketplace,Android,Esporte,"R$ 351,95",CE,nao
+202604-00697,2026-04-06,C15780,9,site,Android,Moda,"R$ 249,99",PE,nao
+202604-00698,2026-04-15,C28582,7,app,iOS,Eletrônicos,"R$ 221,00",RJ,sim
+202604-00699,2026-04-09,C39565,5,site,Android,Esporte,"R$ 226,60",PR,sim
+202604-00700,2026-04-03,C19605,7,marketplace,iOS,Eletrônicos,"R$ 178,98",MG,nao
+202604-00701,2026-04-16,C25898,6,app,iOS,Eletrônicos,"R$ 64,94",PR,nao
+202604-00702,2026-04-22,C29085,9,site,iOS,Moda,"R$ 62,56",SP,sim
+202604-00703,2026-04-25,C18710,9,app,Android,Casa e Decoração,"R$ 46,67",DF,nao
+202604-00704,2026-04-11,C36766,10,app,Android,Beleza,"R$ 51,28",BA,nao
+202604-00705,2026-04-28,C20821,9,site,iOS,Mercado,"R$ 188,28",BA,nao
+202604-00706,2026-04-01,C29723,6,site,Android,Livros,"R$ 182,62",MG,sim
+202604-00707,2026-04-22,C31590,9,app,Android,Livros,"R$ 83,33",SP,sim
+202604-00708,2026-04-01,C30767,6,app,iOS,Mercado,"R$ 30,76",BA,nao
+202604-00709,2026-04-20,C25877,8,site,Android,Eletrônicos,"R$ 40,64",PR,nao
+202604-00710,2026-04-22,C38085,9,app,iOS,Beleza,"R$ 101,05",CE,nao
+202604-00711,2026-04-28,C27041,9,site,Android,Livros,"R$ 98,35",MG,sim
+202604-00712,2026-04-10,C37274,8,app,Android,Mercado,"R$ 202,82",RJ,nao
+202604-00713,2026-04-04,C25799,9,app,iOS,Moda,"R$ 151,61",CE,sim
+202604-00714,2026-04-04,C24250,9,site,iOS,Casa e Decoração,"R$ 41,48",RJ,nao
+202604-00715,2026-04-24,C18441,9,site,Desktop,Livros,"R$ 186,56",PR,sim
+202604-00716,2026-04-21,C33770,6,site,Android,Casa e Decoração,"R$ 102,43",DF,sim
+202604-00717,2026-04-03,C31102,7,marketplace,Desktop,Livros,"R$ 110,59",SP,nao
+202604-00718,2026-04-28,C24318,8,site,iOS,Eletrônicos,"R$ 330,95",DF,nao
+202604-00719,2026-04-11,C34267,10,app,iOS,Eletrônicos,"R$ 48,49",RJ,nao
+202604-00720,2026-04-13,C28904,10,app,iOS,Esporte,"R$ 308,05",BA,sim
+202604-00721,2026-04-11,C35273,8,site,Android,Mercado,"R$ 260,78",PE,sim
+202604-00722,2026-04-19,C17279,10,site,iOS,Mercado,"R$ 248,79",SP,nao
+202604-00723,2026-04-27,C17173,9,app,Android,Esporte,"R$ 252,54",RS,nao
+202604-00724,2026-04-20,C20490,9,app,Desktop,Eletrônicos,"R$ 123,56",SP,nao
+202604-00725,2026-04-16,C30679,6,marketplace,Android,Livros,"R$ 363,00",SP,nao
+202604-00726,2026-04-05,C37128,7,app,Desktop,Mercado,"R$ 355,19",BA,sim
+202604-00727,2026-04-28,C35429,9,site,Android,Beleza,"R$ 45,63",SP,nao
+202604-00728,2026-04-01,C27954,8,marketplace,Android,Beleza,"R$ 27,94",MG,nao
+202604-00729,2026-04-03,C27296,9,site,iOS,Moda,"R$ 225,80",PE,nao
+202604-00730,2026-04-25,C35928,7,app,Desktop,Mercado,"R$ 132,49",BA,nao
+202604-00731,2026-04-19,C14507,10,app,Android,Moda,"R$ 85,28",MG,sim
+202604-00732,2026-04-24,C31339,6,app,,Livros,"R$ 342,81",PR,sim
+202604-00733,2026-04-13,C23995,10,site,iOS,Eletrônicos,"R$ 121,83",MG,sim
+202604-00734,2026-04-06,C11719,10,app,Android,Casa e Decoração,"R$ 310,76",CE,nao
+202604-00735,2026-04-08,C11113,5,marketplace,Android,Casa e Decoração,"R$ 86,51",PE,sim
+202604-00736,2026-04-25,C32668,10,site,Android,Eletrônicos,"R$ 395,25",PE,nao
+202604-00737,2026-04-09,C30720,8,marketplace,Android,Eletrônicos,"R$ 65,64",PE,sim
+202604-00738,2026-04-21,C31914,10,app,iOS,Esporte,"R$ 83,79",CE,nao
+202604-00739,2026-04-26,C29427,8,app,Android,Livros,"R$ 154,41",RJ,nao
+202604-00740,2026-04-04,C20657,10,app,Desktop,Mercado,"R$ 220,92",MG,sim
+202604-00741,2026-04-13,C28220,9,app,Android,Esporte,"R$ 168,06",SP,nao
+202604-00742,2026-04-18,C33388,8,app,Android,Mercado,"R$ 179,59",SP,sim
+202604-00743,2026-04-06,C38246,2,marketplace,iOS,Esporte,"R$ 98,73",RJ,nao
+202604-00744,2026-04-02,C14221,8,site,Android,Eletrônicos,"R$ 54,29",RJ,nao
+202604-00745,2026-04-03,C14086,8,marketplace,Android,Esporte,"R$ 105,31",SP,sim
+202604-00746,2026-04-08,C19850,10,app,Desktop,Mercado,"R$ 365,44",SP,nao
+202604-00747,2026-04-05,C28909,7,site,iOS,Casa e Decoração,"R$ 109,33",CE,sim
+202604-00748,2026-04-08,C11203,7,site,iOS,Mercado,"R$ 88,57",SP,sim
+202604-00749,2026-04-18,C17079,7,marketplace,iOS,Livros,"R$ 71,46",SP,nao
+202604-00750,2026-04-09,C22510,6,app,iOS,Beleza,"R$ 187,90",RS,sim
+202604-00751,2026-04-23,C14693,8,marketplace,iOS,Livros,"R$ 69,20",PE,nao
+202604-00752,2026-04-23,C22194,9,marketplace,Android,Esporte,"R$ 78,09",PR,sim
+202604-00753,2026-04-11,C35814,9,app,iOS,Esporte,"R$ 215,78",MG,sim
+202604-00754,2026-04-18,C13604,8,app,Android,Casa e Decoração,"R$ 167,05",RJ,sim
+202604-00755,2026-04-25,C18953,7,app,Android,Casa e Decoração,"R$ 105,90",BA,sim
+202604-00756,2026-04-13,C13440,8,app,iOS,Esporte,"R$ 72,05",PR,nao
+202604-00757,2026-04-04,C27332,7,site,Android,Casa e Decoração,"R$ 41,10",CE,nao
+202604-00758,2026-04-06,C20420,7,site,Android,Casa e Decoração,"R$ 99,54",SP,nao
+202604-00759,2026-04-09,C10311,8,app,Android,Livros,"R$ 102,61",MG,sim
+202604-00760,2026-04-24,C18761,8,app,Android,Casa e Decoração,"R$ 169,97",SP,sim
+202604-00761,2026-04-23,C25000,9,site,Desktop,Mercado,"R$ 77,10",PE,nao
+202604-00762,2026-04-14,C27058,5,site,Desktop,Mercado,"R$ 58,59",RS,sim
+202604-00763,2026-04-10,C23320,7,app,Desktop,Livros,"R$ 94,98",RJ,sim
+202604-00764,2026-04-03,C15410,7,app,iOS,Casa e Decoração,"R$ 49,04",PR,nao
+202604-00765,2026-04-14,C32185,7,site,Android,Beleza,"R$ 137,96",SP,nao
+202604-00766,2026-04-23,C14085,9,site,Android,Mercado,"R$ 82,25",DF,sim
+202604-00767,2026-04-24,C21306,7,site,Android,Mercado,"R$ 63,52",DF,sim
+202604-00768,2026-04-22,C38899,8,site,Desktop,Moda,"R$ 67,09",MG,sim
+202604-00769,2026-04-17,C21576,10,app,Android,Beleza,"R$ 34,81",MG,sim
+202604-00770,2026-04-11,C39951,8,app,Desktop,Mercado,"R$ 150,02",RJ,sim
+202604-00771,2026-04-10,C18675,9,app,Android,Esporte,"R$ 800,41",CE,nao
+202604-00772,2026-04-21,C26892,9,app,iOS,Beleza,"R$ 60,17",RS,nao
+202604-00773,2026-04-20,C25084,8,app,Android,Eletrônicos,"R$ 35,04",SP,nao
+202604-00774,2026-04-13,C21617,7,marketplace,,Beleza,"R$ 67,82",MG,nao
+202604-00775,2026-04-17,C39442,10,app,iOS,Beleza,"R$ 82,71",DF,sim
+202604-00776,2026-04-08,C25423,8,app,iOS,Beleza,"R$ 77,88",RS,sim
+202604-00777,2026-04-04,C24371,10,site,Android,Moda,"R$ 97,04",RS,nao
+202604-00778,2026-04-12,C38953,10,site,iOS,Moda,"R$ 214,84",SP,nao
+202604-00779,2026-04-14,C34376,9,app,iOS,Livros,"R$ 157,29",PE,sim
+202604-00780,2026-04-04,C23798,8,marketplace,Android,Livros,"R$ 31,52",RS,sim
+202604-00779,2026-04-14,C34376,9,app,iOS,Livros,"R$ 157,29",PE,sim
+202604-00461,2026-04-21,C20012,8,app,iOS,Moda,"R$ 94,61",PR,sim
+202604-00544,2026-04-04,C20742,7,site,iOS,Mercado,"R$ 66,42",PR,nao

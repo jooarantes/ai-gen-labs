@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101010">
+  <meta name="description" content="Hot grills, cold glasses, and banchan worth passing around. Gogi Republic brings Korean BBQ to five Los Angeles locations.">
+  <title>Gogi Republic | Bring your people. We'll bring the banchan.</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --black: #101010;
+      --red: #F24B2E;
+      --coal: #6D1F16;
+      --cream: #F7EFE2;
+      --steel: #A6A09A;
+      --green: #4E7D3A;
+      --display: Impact, "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+      --body: Arial, Helvetica, sans-serif;
+      --label: "Courier New", monospace;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 28px; }
+    body { margin: 0; background: var(--black); color: var(--cream); font: 17px/1.65 var(--body); }
+    a { color: inherit; text-underline-offset: 5px; }
+    button, select { font: inherit; }
+    img { display: block; max-width: 100%; height: auto; }
+    p, h1, h2, h3, figure { margin: 0; }
+    h1, h2, h3 { font-family: var(--display); font-weight: 400; text-transform: uppercase; }
+    h1 { font-size: clamp(76px, 8.5vw, 132px); line-height: .94; letter-spacing: -.015em; }
+    h2 { font-size: clamp(48px, 5.3vw, 76px); line-height: 1; letter-spacing: -.01em; }
+    h3 { font-size: 30px; line-height: 1.1; }
+    :focus-visible { outline: 3px solid currentColor; outline-offset: 5px; }
+    .wrap { width: min(1160px, calc(100% - 96px)); margin-inline: auto; }
+    .label { font: 700 12px/1.5 var(--label); letter-spacing: .1em; text-transform: uppercase; }
+    .eyebrow { margin-bottom: 22px; }
+    .muted { color: var(--steel); }
+    .accent { color: var(--red); }
+    .skip { position: absolute; top: -100px; left: 16px; z-index: 10; padding: 12px 20px; background: var(--cream); color: var(--black); }
+    .skip:focus { top: 12px; }
+    .button { display: inline-flex; justify-content: space-between; align-items: center; gap: 32px; min-height: 50px; padding: 14px 23px; background: var(--red); color: var(--black); border: 1px solid transparent; text-decoration: none; font-size: 14px; font-weight: 700; transition: background .15s, color .15s; }
+    .button:hover { background: var(--cream); }
+    .button .arrow { font-size: 23px; line-height: 1; }
+    .button.dark { background: var(--black); color: var(--cream); }
+    .button.dark:hover { background: var(--coal); }
+    .site-header { border-bottom: 1px solid #39332e; }
+    .header-inner { min-height: 94px; display: flex; align-items: center; justify-content: space-between; gap: 32px; }
+    /* Keep the original logo intact; crop out its embedded tagline in the layout. */
+    .logo { display: block; flex: none; width: 160px; height: 44px; position: relative; overflow: hidden; }
+    .logo img { position: absolute; width: 210px; height: 210px; max-width: none; top: -79px; left: -25px; }
+    .header-inner nav { display: flex; align-items: center; gap: 28px; font-size: 13px; }
+    .header-inner nav > a:not(.button) { text-decoration: none; padding-block: 12px; }
+    .header-inner nav > a:not(.button):hover { color: var(--red); }
+    .hero { display: grid; grid-template-columns: 1fr 1fr; max-width: 1600px; margin-inline: auto; }
+    .hero-copy { padding: 74px 48px 72px max(48px, calc((100vw - 1160px) / 2)); }
+    .hero h1 span { display: block; }
+    .hero-copy .intro { max-width: 350px; margin: 28px 0 28px; color: var(--cream); }
+    .hero-copy .small-note { margin-top: 21px; font-size: 11px; color: var(--steel); }
+    .hero-photo { position: relative; min-width: 0; }
+    .hero-photo > img { height: 100%; width: 100%; object-fit: cover; object-position: 58% center; }
+    .table-stamp { position: absolute; right: 28px; bottom: 28px; width: 120px; height: 120px; display: grid; place-content: center; text-align: center; border-radius: 50%; color: var(--black); background: var(--cream); transform: rotate(9deg); border: 5px double var(--black); }
+    .table-stamp span { font: 400 28px/1 var(--display); text-transform: uppercase; }
+    .table-stamp small { margin-top: 7px; font-size: 9px; }
+    .table-strip { padding: 21px 24px; background: var(--red); color: var(--black); text-align: center; font: 400 clamp(19px, 2.2vw, 29px)/1.2 var(--display); text-transform: uppercase; letter-spacing: .055em; }
+    .table-strip span { display: inline-block; margin-inline: 22px; }
+    .menu { background: var(--cream); color: var(--black); padding: 104px 0 110px; }
+    .menu .eyebrow { color: var(--coal); }
+    .section-heading { display: flex; justify-content: space-between; gap: 64px; align-items: end; margin-bottom: 52px; }
+    .section-heading > p { max-width: 320px; padding-bottom: 4px; }
+    .menu-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }
+    .menu-list { margin: 0; }
+    .menu-item { padding: 23px 0; border-top: 1px solid #b9ad9c; }
+    .menu-item:first-child { padding-top: 0; border-top: 0; }
+    .menu-item dt { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
+    .menu-item dt .label { color: var(--coal); }
+    .menu-item dd { margin: 0; font-size: 15px; line-height: 1.65; max-width: 400px; }
+    .menu-photo img { width: 100%; aspect-ratio: 1; object-fit: cover; }
+    .menu-photo figcaption { display: flex; gap: 16px; justify-content: space-between; padding-top: 17px; color: var(--coal); }
+    .locations { padding: 104px 0; }
+    .locations .section-heading { margin-bottom: 48px; }
+    .location-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; column-gap: 64px; }
+    .location-list li { display: flex; align-items: center; gap: 23px; padding: 26px 0; border-top: 1px solid #51483f; }
+    .location-list .number { color: var(--red); font: 12px var(--label); }
+    .location-list h3 { font-size: 38px; }
+    .location-note { margin-top: 30px; font-size: 14px; color: var(--steel); }
+    .catering { background: var(--red); color: var(--black); padding: 80px 0; }
+    .catering-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: 80px; align-items: center; }
+    .catering-body > p { max-width: 400px; }
+    .catering-body .button { margin-top: 28px; }
+    .catering-contact { margin-top: 24px; padding-top: 20px; border-top: 1px solid var(--coal); max-width: 410px; }
+    .catering-contact p { font-size: 14px; }
+    .catering-contact .label { margin-bottom: 9px; }
+    .founder { background: var(--cream); color: var(--black); padding: 108px 0; }
+    .founder-grid { display: grid; grid-template-columns: .9fr 1fr; gap: 100px; align-items: center; }
+    .portrait { position: relative; }
+    .portrait img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 24%; }
+    .portrait figcaption { padding: 16px 0 0; color: var(--coal); }
+    .founder .eyebrow { color: var(--coal); }
+    .founder h2 { font-size: clamp(44px, 4.6vw, 66px); margin-bottom: 29px; }
+    .founder-copy > p:not(.eyebrow) { margin-top: 18px; }
+    .signoff { font-weight: 700; }
+    .booking { padding: 100px 0; text-align: center; }
+    .booking h2 { font-size: clamp(60px, 7vw, 102px); }
+    .booking .lede { margin: 22px auto 30px; max-width: 470px; }
+    .booking-status { max-width: 550px; margin: 30px auto 0; padding: 23px 26px; border: 1px solid #51483f; font-size: 14px; color: var(--steel); }
+    .booking-status .label { color: var(--cream); margin-bottom: 10px; }
+    .site-footer { border-top: 1px solid #51483f; padding: 42px 0 24px; }
+    .footer-top { display: flex; justify-content: space-between; align-items: center; gap: 30px; }
+    .signature { font: 400 clamp(30px, 4vw, 52px)/1.1 var(--display); }
+    .footer-locations { display: flex; flex-wrap: wrap; gap: 12px 26px; list-style: none; padding: 30px 0; margin: 0; font-size: 13px; }
+    .footer-bottom { border-top: 1px solid #39332e; padding-top: 20px; display: flex; justify-content: space-between; gap: 20px; color: var(--steel); font-size: 11px; }
+    @media (min-width: 1600px) { .hero-copy { padding-left: 90px; } }
+    @media (max-width: 950px) {
+      .wrap { width: calc(100% - 56px); }
+      .header-inner { gap: 20px; }
+      .header-inner nav { gap: 18px; }
+      .hero-copy { padding: 58px 28px; }
+      h1 { font-size: clamp(70px, 9.8vw, 100px); }
+      .section-heading { gap: 32px; }
+      .menu-grid, .founder-grid { gap: 38px; }
+      .catering-grid { gap: 40px; }
+      .menu, .locations, .founder, .booking { padding-block: 76px; }
+    }
+    @media (max-width: 650px) {
+      .wrap { width: calc(100% - 40px); }
+      .header-inner { min-height: 120px; padding-block: 18px; flex-wrap: wrap; gap: 12px; }
+      .header-inner nav { width: 100%; justify-content: space-between; gap: 10px; font-size: 12px; }
+      .header-inner nav .button { min-height: 44px; padding: 10px 12px; font-size: 12px; }
+      .hero { grid-template-columns: 1fr; }
+      .hero-copy { padding: 52px 20px 44px; }
+      h1 { font-size: clamp(76px, 19vw, 112px); }
+      .hero-copy .intro { max-width: 360px; }
+      .hero-photo { height: 390px; }
+      .table-stamp { width: 98px; height: 98px; bottom: 20px; right: 20px; }
+      .table-stamp span { font-size: 23px; }
+      .table-strip { padding: 19px 8px; font-size: 18px; letter-spacing: 0; }
+      .table-strip span { margin-inline: 8px; }
+      .menu, .locations, .founder, .booking { padding-block: 64px; }
+      .section-heading { display: block; margin-bottom: 36px; }
+      .section-heading > p { margin-top: 24px; max-width: 380px; }
+      .menu-grid, .catering-grid, .founder-grid { grid-template-columns: 1fr; gap: 36px; }
+      .menu-photo { margin-top: 6px; }
+      .menu-photo figcaption { font-size: 10px; }
+      .location-list { grid-template-columns: 1fr; }
+      .location-list li { padding-block: 22px; }
+      .location-list h3 { font-size: 35px; }
+      .catering { padding-block: 58px; }
+      .catering h2 { font-size: clamp(45px, 11.5vw, 70px); }
+      .portrait { max-width: 450px; }
+      .founder h2 { font-size: 49px; }
+      .booking h2 { font-size: clamp(58px, 14vw, 85px); }
+      .booking-status { padding: 22px 18px; }
+      .footer-top { flex-direction: column; align-items: flex-start; }
+      .footer-locations { gap: 12px 20px; }
+      .footer-bottom { flex-wrap: wrap; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .button { transition: none; }
+    }
+  </style>
+</head>
+<body id="top">
+  <a class="skip" href="#main">Skip to the table</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="logo" href="#top" aria-label="Gogi Republic home"><img src="../../assets/logo_concept.png" width="1600" height="1600" alt="Gogi Republic"></a>
+      <nav aria-label="Main navigation">
+        <a href="#menu">The food</a>
+        <a href="#locations">Locations</a>
+        <a href="#our-story">Our story</a>
+        <a class="button" href="#booking">Book a table</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="label eyebrow accent">Los Angeles · Korean BBQ</p>
+        <h1 id="hero-title">Bring<span>your</span><span class="accent">people.</span></h1>
+        <p class="intro">Hot grill. Cold glass. Banchan within reach. Pull up a chair and stay for round two.</p>
+        <a class="button" href="#booking">Book a table <span class="arrow" aria-hidden="true">↗</span></a>
+        <p class="label small-note">Five locations. Plenty to pass around.</p>
+      </div>
+      <figure class="hero-photo">
+        <img src="../../assets/hero_grill_table.png" width="1672" height="941" alt="Meat sizzling on a tabletop grill as someone turns it with tongs, with banchan all around." fetchpriority="high">
+        <figcaption class="table-stamp"><span>Pass<br>the tongs.</span><small class="label">Since 2019</small></figcaption>
+      </figure>
+    </section>
+    <div class="table-strip"><span>Hot grill.</span><span>Cold glass.</span><span>Round two.</span></div>
+
+    <section class="menu" id="menu" aria-labelledby="menu-title">
+      <div class="wrap">
+        <div class="section-heading">
+          <div><p class="label eyebrow">01 / The food</p><h2 id="menu-title">Make room.<br>Then make ssam.</h2></div>
+          <p>Start with the sizzle. Reach for the kimchi. Keep the good stuff moving around the table.</p>
+        </div>
+        <div class="menu-grid">
+          <dl class="menu-list">
+            <div class="menu-item"><dt><h3>On the grill</h3><span class="label">Meats</span></dt><dd>Galbi, pork belly, brisket, spicy chicken, and ribeye cap. Bring an appetite for char.</dd></div>
+            <div class="menu-item"><dt><h3>Pass it around</h3><span class="label">Banchan</span></dt><dd>Kimchi, pickled daikon, cucumber muchim, bean sprouts, and scallion salad. Keep a little room on your plate.</dd></div>
+            <div class="menu-item"><dt><h3>One more dip</h3><span class="label">Sauces</span></dt><dd>Ssamjang, sesame salt, and gochujang glaze. Find your next bite's best friend.</dd></div>
+            <div class="menu-item"><dt><h3>Something cold</h3><span class="label">Drinks</span></dt><dd>Soju, makgeolli, cold beer, or iced barley tea. Your glass, your call.</dd></div>
+          </dl>
+          <figure class="menu-photo">
+            <img src="../../assets/texture_banchan.png" width="1254" height="1254" alt="An overhead spread of kimchi, pickled daikon, cucumber, bean sprouts, and other banchan in metal bowls." loading="lazy">
+            <figcaption class="label"><span>Small plates. Big table energy.</span><span>Pass them on ↗</span></figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="locations" id="locations" aria-labelledby="locations-title">
+      <div class="wrap">
+        <div class="section-heading">
+          <div><p class="label eyebrow accent">02 / Around Los Angeles</p><h2 id="locations-title">Five spots.<br>Same hungry crew.</h2></div>
+          <p class="muted">After work. Before the night out. Or just because pork belly sounded good.</p>
+        </div>
+        <ul class="location-list">
+          <li><span class="number" aria-hidden="true">01</span><h3>Koreatown</h3></li>
+          <li><span class="number" aria-hidden="true">02</span><h3>Sawtelle</h3></li>
+          <li><span class="number" aria-hidden="true">03</span><h3>Silver Lake</h3></li>
+          <li><span class="number" aria-hidden="true">04</span><h3>Long Beach</h3></li>
+          <li><span class="number" aria-hidden="true">05</span><h3>Pasadena</h3></li>
+        </ul>
+        <p class="location-note">Pick your neighborhood. Bring the people who always ask for round two.</p>
+      </div>
+    </section>
+
+    <section class="catering" id="catering" aria-labelledby="catering-title">
+      <div class="wrap catering-grid">
+        <div><p class="label eyebrow">03 / Feed the whole crew</p><h2 id="catering-title">More people.<br>More banchan.</h2></div>
+        <div class="catering-body">
+          <p>Team dinner? Family gathering? Start with your people, then talk food. Have your date, group size, and neighborhood ready.</p>
+          <a class="button dark" href="#catering-contact">Ask about catering <span class="arrow" aria-hidden="true">↗</span></a>
+          <!-- Replace the in-page destination when an approved catering contact is supplied. -->
+          <div class="catering-contact" id="catering-contact" tabindex="-1">
+            <p class="label">Catering inquiries</p>
+            <p>Catering contact details aren't available on this page yet.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="founder" id="our-story" aria-labelledby="founder-title">
+      <div class="wrap founder-grid">
+        <figure class="portrait">
+          <img src="../../assets/mj_portrait.png" width="1086" height="1448" alt="MJ Park smiling in the restaurant, wearing a black shirt beside a grill table." loading="lazy">
+          <figcaption class="label">Min-Jae “MJ” Park / Founder</figcaption>
+        </figure>
+        <div class="founder-copy">
+          <p class="label eyebrow">04 / A note from MJ</p>
+          <h2 id="founder-title">A loud room.<br>A clean grill.<br>A full table.</h2>
+          <p>I grew up helping at my parents' restaurant in Gardena. A hot grill and a room full of people still feel like home.</p>
+          <p>That's the feeling behind Gogi Republic. Come with your friends, pass the banchan, and let dinner run a little longer than you planned.</p>
+          <p>Wear the jacket that can handle smoke.</p>
+          <p class="signoff">MJ and the crew.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="booking" id="booking" aria-labelledby="booking-title" tabindex="-1">
+      <div class="wrap">
+        <p class="label eyebrow accent">Save room for the grill</p>
+        <h2 id="booking-title">The group chat<br>can wait.</h2>
+        <p class="lede">Get your people around a table. The next thing worth sharing is a plate of galbi.</p>
+        <a class="button" href="#booking-details">Book a table <span class="arrow" aria-hidden="true">↗</span></a>
+        <!-- No reservation provider or booking URL has been supplied for this practice. -->
+        <div class="booking-status" id="booking-details" tabindex="-1">
+          <p class="label">Table reservations</p>
+          <p>Online booking isn't available on this page yet. No reservation is made here.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-top">
+        <a class="logo" href="#top" aria-label="Gogi Republic, back to top"><img src="../../assets/logo_concept.png" width="1600" height="1600" alt="Gogi Republic" loading="lazy"></a>
+        <p class="signature">Grill loud, eat louder.</p>
+      </div>
+      <ul class="footer-locations" aria-label="All five locations"><li>Koreatown</li><li>Sawtelle</li><li>Silver Lake</li><li>Long Beach</li><li>Pasadena</li></ul>
+      <div class="footer-bottom"><p>Gogi Republic · Los Angeles Korean BBQ</p><a href="#top">Back to the top ↑</a></div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,35 @@
+{
+  "mountPoints": [
+    {
+      "virtualPath": ".agents",
+      "realPath": "C:\\Users\\Administrador\\Documents\\Alura\\6427-Codex 2\\projetos\\Analista de dados\\.agents",
+      "enabled": true,
+      "readOnly": false,
+      "id": "dcx6duamq8cdg14",
+      "deviceId": "0gskcj1mq8c82uq",
+      "ignoreList": [
+        ".git",
+        "node_modules",
+        ".obsidian"
+      ]
+    }
+  ],
+  "allowlist": [
+    "C:\\Users\\Administrador\\Documents\\Alura\\6427-Codex 2\\projetos\\Analista de dados\\.agents"
+  ],
+  "managedTocSource": "",
+  "tocSources": [],
+  "dryRun": false,
+  "showStatusBar": true,
+  "mountRootDeletionBehavior": "ask",
+  "deviceId": "0gskcj1mq8c82uq",
+  "allowForeignMounts": false,
+  "maxDataUriMB": 10,
+  "globalIgnorePatterns": [
+    ".DS_Store",
+    "Thumbs.db",
+    "desktop.ini",
+    ".git"
+  ],
+  "hasSeenOnboarding": true
+}
