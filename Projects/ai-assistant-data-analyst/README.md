@@ -10,8 +10,8 @@ Neste projeto, o agente atua sobre um caso de uso recorrente de análise de NPS 
 
 The dashboards are published through GitHub Pages from the repository's `docs/` directory.
 
-- [Open the NPS dashboard on GitHub Pages](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
-- [Open the CSAT dashboard on GitHub Pages](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_pesquisa_satisfacao_clientes.html)
+- [Open the NPS dashboard](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
+- [Open the CSAT dashboard](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_pesquisa_satisfacao_clientes.html)
 
 ### Artefatos do projeto
 
@@ -302,11 +302,3 @@ Este projeto demonstra como um agente de IA pode assumir a execução operaciona
 - validação e comunicação do resultado.
 
 O diferencial não está apenas na geração de um dashboard, mas na criação de um fluxo reutilizável no qual o agente coordena skills, executa scripts versionados, aplica regras documentadas e entrega um resultado analítico reproduzível.
-
-## GitHub Pages links
-
-```markdown
-[Interactive NPS dashboard](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
-
-[Interactive CSAT dashboard](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_pesquisa_satisfacao_clientes.html)
-```
