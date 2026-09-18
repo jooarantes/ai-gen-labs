@@ -22,6 +22,17 @@ The business used in this case study is **Gogi Republic**, a Korean BBQ restaura
 
 ---
 
+## Demonstration
+
+The flyer and landing page are available as static PDF artifacts. The GitHub Pages links open the PDFs in the browser's built-in viewer.
+
+| Deliverable | GitHub Pages | Repository artifact |
+| --- | --- | --- |
+| Promotional flyer | [Open flyer PDF](https://jooarantes.github.io/ai-gen-labs/Projects/gogi-republic-ai-brand-skill-workflow/pdf/gogi-republic-flyer.pdf) | [View flyer PDF](pdf/gogi-republic-flyer.pdf) |
+| Landing page | [Open landing page PDF](https://jooarantes.github.io/ai-gen-labs/Projects/gogi-republic-ai-brand-skill-workflow/pdf/gogi-republic-landing-page.pdf) | [View landing page PDF](pdf/gogi-republic-landing-page.pdf) |
+
+---
+
 # Project Goal
 
 The objective is **not** to build the best prompt.

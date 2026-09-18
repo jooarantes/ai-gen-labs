@@ -6,11 +6,12 @@ Neste projeto, o agente atua sobre um caso de uso recorrente de análise de NPS 
 
 ## Demonstração
 
-### Dashboard interativo
+### Interactive dashboards
 
-> The links below assume the repository is published as `jooarantes/ai-gen-labs` and that this project is stored under `Projects/`.
+The dashboards are published through GitHub Pages from the repository's `docs/` directory.
 
-[Open the NPS dashboard on GitHub Pages](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
+- [Open the NPS dashboard on GitHub Pages](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
+- [Open the CSAT dashboard on GitHub Pages](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_pesquisa_satisfacao_clientes.html)
 
 ### Artefatos do projeto
 
