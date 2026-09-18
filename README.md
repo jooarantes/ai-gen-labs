@@ -99,15 +99,6 @@ Each project should make the following information explicit whenever it applies:
 
 Projects should distinguish educational demonstrations, prototypes, simulations, and production-validated applications. Claims about business impact or operational performance should only be made when supported by project evidence.
 
-## Getting started
-
-Start with the README inside the project you want to explore:
-
-- [AI Data Analyst Agent README](./Projects/ai-assistant-data-analyst/README.md)
-- [Gogi Republic AI Brand Workflow README](./Projects/gogi-republic-ai-brand-skill-workflow/README.md)
-
-The repository landing page is published through [GitHub Pages](https://jooarantes.github.io/ai-gen-labs/).
-
 Each project contains its own structure, workflow description, artifacts, and execution guidance.
 
 ## Author
