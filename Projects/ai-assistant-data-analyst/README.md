@@ -8,9 +8,9 @@ Neste projeto, o agente atua sobre um caso de uso recorrente de análise de NPS 
 
 ### Dashboard interativo
 
-> Substitua `SEU-USUARIO` pelo seu usuário do GitHub e ajuste `AI-Gen-Labs/ai-assistant-data-analyst` caso a estrutura final do repositório seja diferente.
+> The links below assume the repository is published as `jooarantes/ai-gen-labs` and that this project is stored under `Projects/`.
 
-[Abrir dashboard NPS no GitHub Pages](https://SEU-USUARIO.github.io/AI-Gen-Labs/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
+[Open the NPS dashboard on GitHub Pages](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
 
 ### Artefatos do projeto
 
@@ -302,12 +302,10 @@ Este projeto demonstra como um agente de IA pode assumir a execução operaciona
 
 O diferencial não está apenas na geração de um dashboard, mas na criação de um fluxo reutilizável no qual o agente coordena skills, executa scripts versionados, aplica regras documentadas e entrega um resultado analítico reproduzível.
 
-## Links para configurar após publicar o GitHub Pages
-
-Depois de configurar o GitHub Pages do repositório maior, substitua os placeholders abaixo pelos links reais:
+## GitHub Pages links
 
 ```markdown
-[Dashboard NPS interativo](https://SEU-USUARIO.github.io/AI-Gen-Labs/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
+[Interactive NPS dashboard](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_nps_ecommerce.html)
 
-[Dashboard CSAT interativo](https://SEU-USUARIO.github.io/AI-Gen-Labs/ai-assistant-data-analyst/dashboards/dashboard_pesquisa_satisfacao_clientes.html)
+[Interactive CSAT dashboard](https://jooarantes.github.io/ai-gen-labs/Projects/ai-assistant-data-analyst/dashboards/dashboard_pesquisa_satisfacao_clientes.html)
 ```

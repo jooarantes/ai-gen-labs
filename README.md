@@ -18,14 +18,14 @@ The repository brings together focused projects that turn AI concepts into docum
 
 | Project | Problem addressed | Approach | Main deliverables |
 | --- | --- | --- | --- |
-| [AI Data Analyst Agent](./ai-assistant-data-analyst/) | Repetitive and inconsistent processing of customer research data. | A process-oriented AI agent coordinates documented skills and Python scripts for validation, cleaning, consolidation, metric calculation, and dashboard generation. | NPS and CSAT dashboards, reusable data process documentation, specialized skills, and executable Python scripts. |
-| [Gogi Republic AI Brand Workflow](./gogi-republic-ai-brand-skill-workflow/) | Maintaining a consistent brand voice across multiple AI-generated marketing assets. | A Brand Bible is transformed into a reusable Brand Skill and applied to promotional and landing-page workflows. | Brand documentation, reusable AI instructions, fixed visual assets, prompt workflow, flyer, and landing-page materials. |
+| [AI Data Analyst Agent](./Projects/ai-assistant-data-analyst/) | Repetitive and inconsistent processing of customer research data. | A process-oriented AI agent coordinates documented skills and Python scripts for validation, cleaning, consolidation, metric calculation, and dashboard generation. | NPS and CSAT dashboards, reusable data process documentation, specialized skills, and executable Python scripts. |
+| [Gogi Republic AI Brand Workflow](./Projects/gogi-republic-ai-brand-skill-workflow/) | Maintaining a consistent brand voice across multiple AI-generated marketing assets. | A Brand Bible is transformed into a reusable Brand Skill and applied to promotional and landing-page workflows. | Brand documentation, reusable AI instructions, fixed visual assets, prompt workflow, flyer, and landing-page materials. |
 
 ## Project categories
 
 ### Agentic data workflows
 
-The [AI Data Analyst Agent](./ai-assistant-data-analyst/) demonstrates how an AI agent can execute a predefined analytical process instead of improvising business rules. The project covers:
+The [AI Data Analyst Agent](./Projects/ai-assistant-data-analyst/) demonstrates how an AI agent can execute a predefined analytical process instead of improvising business rules. The project covers:
 
 - input validation and data-quality checks;
 - cleaning and standardization with pandas;
@@ -38,7 +38,7 @@ The project includes a demonstrative NPS workflow covering April to June 2026 an
 
 ### Prompt and brand-skill workflows
 
-The [Gogi Republic AI Brand Workflow](./gogi-republic-ai-brand-skill-workflow/) is an educational case study showing how brand knowledge can be organized into reusable AI instructions. The workflow separates:
+The [Gogi Republic AI Brand Workflow](./Projects/gogi-republic-ai-brand-skill-workflow/) is an educational case study showing how brand knowledge can be organized into reusable AI instructions. The workflow separates:
 
 - brand knowledge and identity;
 - reusable skill instructions;
@@ -64,19 +64,24 @@ The case study uses a fictionalized Korean BBQ restaurant context and includes e
 ```text
 .
 ├── README.md
-├── ai-assistant-data-analyst/
-│   ├── dados_brutos/
-│   ├── dados_tratados/
-│   ├── dashboards/
-│   ├── processos/
-│   ├── .agents/
-│   └── README.md
-└── gogi-republic-ai-brand-skill-workflow/
-    ├── assets/
-    ├── brand/
-    ├── docs/
-    ├── .agents/
-    └── README.md
+├── LICENSE
+├── .gitignore
+├── docs/
+│   └── index.html
+└── Projects/
+    ├── ai-assistant-data-analyst/
+    │   ├── dados_brutos/
+    │   ├── dados_tratados/
+    │   ├── dashboards/
+    │   ├── processos/
+    │   ├── .agents/
+    │   └── README.md
+    └── gogi-republic-ai-brand-skill-workflow/
+        ├── assets/
+        ├── brand/
+        ├── docs/
+        ├── .agents/
+        └── README.md
 ```
 
 ## Project documentation conventions
@@ -98,8 +103,10 @@ Projects should distinguish educational demonstrations, prototypes, simulations,
 
 Start with the README inside the project you want to explore:
 
-- [AI Data Analyst Agent README](./ai-assistant-data-analyst/README.md)
-- [Gogi Republic AI Brand Workflow README](./gogi-republic-ai-brand-skill-workflow/README.md)
+- [AI Data Analyst Agent README](./Projects/ai-assistant-data-analyst/README.md)
+- [Gogi Republic AI Brand Workflow README](./Projects/gogi-republic-ai-brand-skill-workflow/README.md)
+
+The repository landing page is published through [GitHub Pages](https://jooarantes.github.io/ai-gen-labs/).
 
 Each project contains its own structure, workflow description, artifacts, and execution guidance.
 
